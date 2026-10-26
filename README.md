@@ -1,55 +1,72 @@
 # AI-means-love ❤️
 
-> **AI，就是「爱」。**
-> AI 的发音是「爱」——我们相信，记录人工智能的每一步进步，最终是为了记录人类如何用智能去帮助人、治愈人、连接人。
+**Languages:** English (default) · [简体中文](i18n/zh-CN/README.md) · [繁體中文](i18n/zh-TW/README.md) · [日本語](i18n/ja/README.md) · [한국어](i18n/ko/README.md) · [Español](i18n/es/README.md) · [Français](i18n/fr/README.md) · [Deutsch](i18n/de/README.md) · [Português](i18n/pt-BR/README.md) · [Русский](i18n/ru/README.md)
 
-一个持续更新的 **AI 发展史公开档案**：先系统回填从 1950 年图灵测试至今的关键节点，此后 **每日更新一条** 经核查的 AI 进展。不追热点、不编故事，只做一件有意义的事——把世界进步的样子，一天一天记下来。
+> **AI means love.**
+> In Chinese, "AI" is pronounced exactly like 愛 — the word for *love*. We record every step of artificial intelligence because we believe its progress should be measured by how it helps, heals and connects people.
 
-## 这个项目做什么
+A living, verifiable **chronicle of AI history**: first backfilled from the 1950 Turing Test to today, then updated with **one carefully checked entry every day**. No hype, no invented stories — just the record of a world progressing, one day at a time.
 
-1. **一部可核查的 AI 编年史** —— `TIMELINE.md`
-   每个节点包含：日期、事件、发生了什么、**为什么重要 / 它带来的善**、来源。日期精确到日（能核实到日的），不确定的只写到月，绝不编造。
-2. **一份结构化数据** —— `data/events.json`
-   同一份历史以机器可读格式保存，未来可以直接生成网页时间轴、图表、视频脚本和每日推送。
-3. **每日一记** —— `daily/YYYY-MM-DD.md`
-   每天只选当天最值得被历史记住的 **1 条**（宁缺毋滥；没有够格的事件，就如实写「今日无收录」并说明原因）。
+## What this project does
 
-## 收录标准（什么才配进史册）
+1. **A verifiable chronicle** — `TIMELINE.md`
+   Every entry has a date, what happened, **why it matters — the good it brings**, and sources. Dates are exact to the day when verifiable; otherwise only the month is given. Nothing is made up.
+2. **Structured data** — `data/events.json`
+   The same history in machine-readable form, ready to power a visual timeline website, charts, videos and daily digests.
+3. **One entry a day** — `daily/YYYY-MM-DD.md`
+   Each day we select the single event most worth remembering. If nothing qualifies, we honestly write "no entry today" and say why.
 
-✅ 收录：重要模型/产品正式发布、里程碑论文、重大开源、科学发现（医疗、蛋白质、无障碍等）、影响广泛的政策与治理事件
-❌ 不收：未证实的传闻、纯营销稿、单日股价波动、无来源的「据悉」类消息
+## What earns a place in history
 
-每条收录必须满足：**官方来源优先 + 至少一个独立来源交叉核对**。详见 `docs/DAILY_UPDATE.md`。
+✅ Major model or product launches, milestone papers, major open-source releases, scientific breakthroughs (medicine, proteins, accessibility…), and policy or governance events with wide impact
+❌ Rumors, pure marketing, one-day stock moves, unsourced claims
 
-## 项目结构
+Every entry requires an **official source first, plus at least one independent source** for cross-checking. See `docs/DAILY_UPDATE.md` and the multilingual rules in `docs/I18N.md`.
+
+## Repository structure
 
 ```
 AI-means-love/
-├── README.md          # 你在这里
-├── TIMELINE.md        # AI 发展史主时间线（回填 + 每日追加）
-├── data/
-│   └── events.json    # 结构化事件数据（与 TIMELINE 同步）
-├── daily/             # 每日一记
-│   └── 2026-10-26.md  # 首日样例
-└── docs/
-    └── DAILY_UPDATE.md  # 每日更新机制、模板与核查规则
+├── README.md / TIMELINE.md     # English (canonical source)
+├── i18n/<locale>/              # README + TIMELINE per language
+├── data/events.json            # Structured events (canonical)
+├── daily/                      # One entry per day
+└── docs/                       # DAILY_UPDATE.md · I18N.md
 ```
 
-## 名字的意义
+## Translation status
 
-- **AI** 谐音 **爱**：技术向善，不是口号，是每条记录的最后一栏——「它如何让人的生活更好」。
-- 这也是本项目与维基百科式时间线的区别：不只记「发生了什么」，也记「这对普通人意味着什么」。
+| Language | README | TIMELINE |
+|---|---|---|
+| English (canonical) | ✅ | ✅ 48 entries |
+| 简体中文 zh-CN | ✅ | ✅ 48 entries |
+| 繁體中文 zh-TW | ✅ | ✅ 48 entries |
+| 日本語 ja | ✅ | ✅ 48 entries |
+| 한국어 ko | ✅ | ✅ 48 entries |
+| Español es | ✅ | 🚧 in progress — see English |
+| Français fr | ✅ | 🚧 in progress — see English |
+| Deutsch de | ✅ | 🚧 in progress — see English |
+| Português pt-BR | ✅ | 🚧 in progress — see English |
+| Русский ru | ✅ | 🚧 in progress — see English |
 
-## 参与方式
+English is the canonical source; other languages sync from it under the rules in `docs/I18N.md`. Translation PRs are very welcome.
 
-发现日期错误、遗漏的重要节点、或有更好的来源，欢迎提 Issue / PR：附上日期、出处链接和一句话说明即可。
+## The name
 
-## 状态
+- **AI** sounds like **愛 (love)**: technology for good is not a slogan here — it is the last column of every entry: *how does this make people's lives better?*
+- That is what sets this chronicle apart from a plain timeline: it records not only what happened, but what it means for ordinary people.
 
-- [x] 历史回填 v1：1950–2026，共 48 个节点（2026-10-26）
-- [x] 推送至 GitHub 仓库并公开（2026-10-26，https://github.com/tssc/AI-means-love）
-- [ ] 每日更新机制常态化（每日 21:00 前完成当日一记，先核查、后发布）
-- [ ] 未来：生成可视化网页时间轴；每日一记同步改编为短视频 / 图文
+## Contributing
+
+Spotted a wrong date, a missing milestone, or a better source? Open an Issue or PR with the date, a source link and one sentence of explanation.
+
+## Status
+
+- [x] Backfill v1: 1950–2026, 48 entries (2026-10-26)
+- [x] Published on GitHub (2026-10-26, https://github.com/tssc/AI-means-love)
+- [x] Multilingual: 10 languages, English canonical (2026-10-26)
+- [ ] Daily updates running (every day at 21:00 CST a draft is prepared and reviewed before publishing)
+- [ ] Next: a visual timeline website
 
 ---
-*Maintained daily. Because the world is progressing — 世界在进步。*
+*Maintained daily. Because the world is progressing.*

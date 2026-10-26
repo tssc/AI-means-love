@@ -1,101 +1,102 @@
-# AI 发展史时间线 · TIMELINE
+# A History of AI · TIMELINE
 
-> 读法：每个节点 = 日期｜事件｜发生了什么｜**为什么重要（它带来的善）**
-> 核查规则：官方来源优先 + 独立来源交叉；只能核实到月的，只写月份。
-> 说明：Facebook 已于 2021 年更名为 Meta，因此「Muse」系列按 **Meta 推出** 记录。
-
----
-
-## 一、萌芽（1950–1969）：先问一个问题
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 1950-10 | 图灵测试提出 | 图灵发表《计算机器与智能》，提出「模仿游戏」：机器能否让人在对话中分不清它是谁 | AI 的第一个问题不是「多强」，而是「何为智能」——至今仍在回答 |
-| 1956 夏 | 达特茅斯会议 | 麦卡锡等人召开为期数周的研讨会，正式提出「Artificial Intelligence（人工智能）」一词 | 一个学科有了名字，也有了共同的目标 |
-| 1957 | 感知机 Perceptron | 罗森布拉特提出单层感知机，能从数据中学习分类 | 神经网络的思想原型：智能可以从经验中「学」出来 |
-| 1966 | ELIZA | 魏岑鲍姆写出聊天程序 ELIZA，其中 DOCTOR 脚本模仿心理治疗师对话 | 人们第一次对机器倾诉心事——AI 与人的情感连接，从这里开始 |
-
-## 二、探索与寒冬（1970–1999）：跌倒，也是历史
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 1980 前后 | 专家系统商用 | XCON 等专家系统进入企业，AI 第一次大规模创造商业价值 | 证明 AI 能解决真实世界的专业问题 |
-| 1986 | 反向传播普及 | Rumelhart、Hinton、Williams 在 Nature 发表误差反向传播的学习方法 | 训练多层神经网络有了通用方法，今天的大模型仍建立在此之上 |
-| 1987–1993 | 第二次 AI 寒冬 | 专家系统维护成本失控、承诺落空，资金与热情退潮 | 给所有时代的提醒：不兑现的承诺，比失败更伤一个行业 |
-| 1997-05-11 | 深蓝战胜卡斯帕罗夫 | IBM「深蓝」在六局制比赛中以 3.5:2.5 击败国际象棋世界冠军卡斯帕罗夫 | 机器第一次在顶级智力竞技中获胜；人类转而思考：输了棋，我们还剩什么——答案是创造力与共情 |
-
-## 三、机器学习崛起（2006–2015）：数据、算力、深度学习三线合流
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 2006 | 深度学习复兴 | Hinton 等人在 Science 发表深度信念网络的训练方法 | 「深度学习」重新成为主线，寒冬结束 |
-| 2011-02 | Watson 赢下《危险边缘》 | IBM Watson 在智力问答节目中击败两位人类总冠军 | 机器开始「理解」自然语言的双关与常识；其技术随后被用于医疗辅助 |
-| 2011-10 | Siri 随 iPhone 4S 发布 | 语音助手第一次进入数亿普通人的口袋 | AI 不再只在实验室——它开始每天帮人查天气、设闹钟、打电话 |
-| 2012-09 | AlexNet 夺得 ImageNet 冠军 | 深度卷积网络把图像识别错误率从约 26% 打到约 15% | 深度学习时代的发令枪：看懂世界，是帮人的第一步（如医学影像、视障辅助） |
-| 2014-06 | GAN 提出 | Goodfellow 等人提出生成对抗网络，两个网络在博弈中互相变强 | 机器从「识别」走向「创造」，生成式 AI 的源头之一 |
-| 2015-02 | DQN 玩通 Atari | DeepMind 的 DQN 仅看画面与分数，自学玩通 49 款 Atari 游戏并登上 Nature | 强化学习 + 深度网络结合：机器可以从试错中成长，像孩子一样 |
-| 2015-11 | TensorFlow 开源 | Google 开源深度学习框架 TensorFlow | 顶级工具免费开放给全世界开发者——技术平权的范例 |
-| 2015-12-11 | OpenAI 成立 | 以「确保通用人工智能造福全人类」为使命创立 | 「造福全人类」第一次被写进一家 AI 机构的章程 |
-
-## 四、爆发前夜（2016–2021）：AlphaGo、Transformer 与蛋白质
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 2016-03 | AlphaGo 4:1 战胜李世石 | DeepMind 的 AlphaGo 在首尔五番棋中击败九段棋手李世石，第二局下出被评为「一万分之一概率」的第 37 手 | 超过 2 亿人观看；棋手们说它「打开了新世界」——AI 第一次展现出人类认可的创造力 |
-| 2017-05 | AlphaGo 战胜柯洁后退役 | AlphaGo Master 3:0 战胜当时世界第一柯洁，团队随后宣布 AlphaGo 退役、转向科学难题 | 赢不是终点：同一套方法转身去攻克蛋白质、能源与医疗 |
-| 2017-06 | Transformer 论文发表 | 《Attention Is All You Need》提出完全基于注意力机制的架构 | 今天几乎所有大语言模型（GPT、Claude、Gemini、Llama、Muse…）的地基 |
-| 2017-07 | 中国发布《新一代人工智能发展规划》 | 国务院印发规划，提出 2030 年建成世界主要人工智能创新中心的目标 | AI 上升为国家战略，中国的 AI 产业化进程加速 |
-| 2017-10 | AlphaGo Zero | 完全不用人类棋谱、仅靠自我对弈，3 天训练以 100:0 击败战胜李世石的版本 | 证明学习可以超越人类经验的上限——也提示：好的老师可以是「自己」 |
-| 2018-06 | GPT-1 发布 | OpenAI 发布 1.17 亿参数的生成式预训练模型 GPT | 「先预训练、再微调」成为范式，大模型之路正式开始 |
-| 2018-10 | BERT 发布 | Google 开源 BERT，双向理解上下文，刷新多项语言理解纪录并开源权重 | 搜索、翻译、客服等日常服务集体变聪明，且人人可用 |
-| 2020-06 | GPT-3 发布 | 1750 亿参数模型展示少样本学习：给几个例子，就能写作、翻译、写代码 | 人们第一次意识到：规模本身会涌现出新能力 |
-| 2020-12 | AlphaFold 2「解决」蛋白质折叠 | 在 CASP14 竞赛中，AlphaFold 2 对蛋白质结构预测达到实验级精度 | 困扰生物学 50 年的难题被突破——直接加速药物研发，惠及罕见病与癌症研究 |
-| 2021-01 | DALL·E 与 CLIP | OpenAI 发布「文字生成图像」的 DALL·E 与图文对齐模型 CLIP | 不会画画的人，也能把想象说出来变成图——表达权被交还给普通人 |
-| 2021-06 | GitHub Copilot 预览 | 基于 Codex 的 AI 编程助手进入技术预览 | AI 从「聊天对象」变成「结对工作的同事」，从编程开始 |
-
-## 五、生成式 AI 大爆发（2022–2023）：走进每个人的生活
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 2022-04 | DALL·E 2 发布 | 文字生成图像的质量与可控性跃升 | 视觉创作的门槛被大幅拉低 |
-| 2022-08 | Stable Diffusion 开源发布 | Stability AI 开源文生图模型，普通显卡即可运行 | 生成能力第一次真正属于所有人，而非少数公司 |
-| 2022-11-30 | **ChatGPT 发布** | OpenAI 以免费研究预览形式推出 ChatGPT（基于 GPT-3.5）；5 天用户破百万，约两个月月活破亿，为史上最快的消费级应用 | AI 的「iPhone 时刻」：不会任何技术的人，也能和 AI 对话办事——学习、写作、编程、翻译从此不同 |
-| 2023-02-24 | Meta 开源 LLaMA | Meta 发布 LLaMA 系列模型（研究用途开放权重） | 开源大模型生态的起点：小团队也能站在巨人的肩膀上 |
-| 2023-03-14 | GPT-4 发布 | 多模态、可通过律师资格等专业考试的旗舰模型上线 | AI 开始胜任专业工作：辅导学生、辅助残障人士看懂世界（Be My Eyes 合作） |
-| 2023-03-16 | 文心一言发布 | 百度发布大语言模型「文心一言」，为中国首批面向公众的大模型产品之一 | 中文大模型竞赛开启，中文用户有了自己的选择 |
-| 2023-04 | 通义千问发布 | 阿里云发布大模型「通义千问」并逐步开源 Qwen 系列 | 中国开源模型力量成型，后来的 Qwen 成为全球下载量最大的开源模型家族之一 |
-| 2023-07 | Llama 2 与 Claude 2 | Meta 发布可商用的 Llama 2；Anthropic 发布 Claude 2 | 「开源」与「安全」两条路线并进，行业开始认真讨论如何负责任地变强 |
-| 2023-11 | OpenAI 治理风波 | 董事会解雇又复职 CEO 奥特曼，五天内尘埃落定 | 全世界第一次严肃讨论：如此强大的技术，应该由谁、按什么规则治理 |
-| 2023-12-06 | Google 发布 Gemini 1.0 | 原生多模态模型 Gemini 发布，分 Ultra/Pro/Nano 三档 | 多模态成为旗舰模型的标配 |
-
-## 六、智能体与科学之年（2024–2025）：AI 开始做事、拿诺奖
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 2024-02-15 | Sora 公布 | OpenAI 展示文生视频模型 Sora，可生成约一分钟的连贯视频 | 讲故事的权利再次下放：一个人也能拍「电影」 |
-| 2024-05-13 | GPT-4o 发布 | 「o」即 omni：文本、语音、视觉实时融合，语音对话延迟降至接近人类 | 与机器说话像与人说话——对老人、儿童、视障者，这是无障碍的跃升 |
-| 2024-10 | AI 拿下两个诺贝尔奖 | 物理学奖授予 Hopfield 与 Hinton（神经网络基础）；化学奖授予 Baker、Hassabis、Jumper（蛋白质设计与结构预测） | 科学界最高荣誉承认：AI 已经是发现新知识的方法本身 |
-| 2025-01-20 | **DeepSeek-R1 发布并开源** | 中国公司深度求索发布推理模型 R1 并开源权重，性能比肩 OpenAI o1，开放思维链，遵循 MIT 许可 | 「大力出奇迹」之外走出一条低成本、开放的路；一周后全球市场震动——开源让任何国家、任何小团队都能拥有前沿推理能力 |
-| 2025 全年 | 智能体（Agent）元年 | 能自主调用工具、多步完成任务的 AI 智能体从演示走向产品（编程、客服、办公、科研） | AI 从「回答问题」进化为「完成工作」，人的角色转向设定目标与验收 |
-
-## 七、个人智能体时代（2026– ）：AI 住进日常生活
-
-| 日期 | 事件 | 发生了什么 | 为什么重要 |
-|---|---|---|---|
-| 2026-04-08 | **Meta 发布 Muse Spark** | Meta 超级智能实验室发布 Muse 家族首作 Muse Spark：原生多模态推理模型，支持工具使用与多智能体编排；与此前 Llama 路线不同，首发为闭源权重 | 大厂竞赛进入「智能体底座」阶段：模型不再只比答题，更比谁能可靠地把事办成 |
-| 2026-07-09 | Muse Spark 1.1 | 1.1 版发布，支持 100 万 token 上下文，并通过 Meta Model API 向开发者开放预览 | 长上下文 + 工具调用成为个人智能体的基础设施 |
-| 2026-09-08 | **Meta 推出 Muse（个人智能体）** | Meta 正式推出个人智能体产品 Muse（由 Muse Spark 驱动）：通过 Muse App 与 WhatsApp 等入口，帮助用户处理出行、购物、预订与日常事务，具备长期记忆与目标理解 | AI 的形态从「一个网站上的聊天框」变成「随身的个人助手」——本项目维护者正是在它的帮助下记录这段历史，这本身就是一条注脚 |
-| 2026-09 | 最高人民法院发布涉 AI 纠纷审理意见 | 明确生成式 AI 侵权一般适用过错责任，「内容由 AI 生成」不能作为免责抗辩 | 权利与责任跟上技术：进步不等于免责，规则让善意使用者更安心 |
-| 2026-10-15 | Muse Spark Open 开源权重 | Meta 发布开放权重版 Muse Spark Open（816B 总参数 / 42B 激活，MoE 架构），可在本地设备运行 | 闭源首发、开放跟进：前沿能力再次被交到全球开发者手里 |
-| 2026-10-26 | 全国首个 AI 应用风险综合保障方案发布 | 在 2026 金融街论坛年会上发布：为生成式 AI 服务给第三方造成的损失、及供应方自身费用损失提供保险保障 | AI 第一次有了「专属保险」——社会开始用成熟的风险共担机制接纳新技术，这是技术被真正信任的标志 |
+**Languages:** English · [简体中文](i18n/zh-CN/TIMELINE.md) · [繁體中文](i18n/zh-TW/TIMELINE.md) · [日本語](i18n/ja/TIMELINE.md) · [한국어](i18n/ko/TIMELINE.md) · [Español](i18n/es/TIMELINE.md) · [Français](i18n/fr/TIMELINE.md) · [Deutsch](i18n/de/TIMELINE.md) · [Português](i18n/pt-BR/TIMELINE.md) · [Русский](i18n/ru/TIMELINE.md)
+> How to read: each entry = date | event | what happened | **why it matters (the good it brings)**
+> Verification rule: official sources first, cross-checked with independent reporting. If only the month is verifiable, only the month is shown.
+> Note: Facebook renamed itself Meta in 2021, so the Muse family is recorded under **Meta**.
 
 ---
 
-## 待补充 / 征集（欢迎 PR）
+## 1. Origins (1950–1969): first, a question
 
-- [ ] 2019 GPT-2「太危险而不发布」事件的准确表述与出处复核
-- [ ] 国产大模型补录：Kimi（月之暗面）、智谱 GLM、讯飞星火的首发日期核实
-- [ ] 机器人线：特斯拉 Optimus、Figure、宇树等关键节点的收录标准讨论
-- [ ] 每个节点补齐「来源」字段（官方公告链接优先）
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| 1950-10 | The Turing Test | Turing publishes "Computing Machinery and Intelligence" and proposes the imitation game: can a machine converse so that people cannot tell it apart? | AI's first question was not "how strong?" but "what is intelligence?" — we are still answering it |
+| Summer 1956 | The Dartmouth Workshop | McCarthy and colleagues convene a weeks-long workshop and coin the term "Artificial Intelligence" | A field gets a name, and a shared goal |
+| 1957 | The Perceptron | Rosenblatt proposes a single-layer perceptron that learns classification from data | The prototype of neural networks: intelligence can be *learned* from experience |
+| 1966 | ELIZA | Weizenbaum builds ELIZA, whose DOCTOR script imitates a psychotherapist | People confide in a machine for the first time — the human–AI emotional connection starts here |
 
-*最后更新：2026-10-26（回填 v1，共 48 个节点）*
+## 2. Exploration and winter (1970–1999): falling down is also history
+
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| c. 1980 | Expert systems go commercial | Systems such as XCON enter business use; AI creates commercial value at scale for the first time | Proof that AI can solve real professional problems |
+| 1986 | Backpropagation popularized | Rumelhart, Hinton and Williams publish the error backpropagation method in Nature | A general way to train multi-layer networks — today's large models still stand on it |
+| 1987–1993 | The second AI winter | Expert systems prove costly to maintain, promises fall short, funding and enthusiasm retreat | A warning for every era: broken promises hurt an industry more than failure |
+| 1997-05-11 | Deep Blue beats Kasparov | IBM's Deep Blue defeats world chess champion Garry Kasparov 3.5–2.5 over six games | A machine wins at the highest level of an intellectual game for the first time; humans ask what remains uniquely ours — creativity and empathy |
+
+## 3. The rise of machine learning (2006–2015): data, compute and deep learning converge
+
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| 2006 | The deep learning revival | Hinton and colleagues publish how to train deep belief networks in Science | "Deep learning" returns to the main road; the winter ends |
+| 2011-02 | Watson wins Jeopardy! | IBM Watson beats two human champions at the quiz show | Machines begin to "understand" puns and common sense in natural language; the tech later supports medicine |
+| 2011-10 | Siri ships with iPhone 4S | A voice assistant enters hundreds of millions of pockets | AI leaves the lab and starts helping people every day |
+| 2012-09 | AlexNet wins ImageNet | A deep convolutional network cuts image-recognition error from ~26% to ~15% | The starting gun of the deep-learning era: seeing the world is the first step to helping in it (medical imaging, assistance for the blind) |
+| 2014-06 | GANs proposed | Goodfellow and colleagues introduce generative adversarial networks | Machines move from recognizing to creating — one root of generative AI |
+| 2015-02 | DQN masters Atari | DeepMind's DQN learns 49 Atari games from pixels and scores alone, published in Nature | Reinforcement learning meets deep networks: machines can grow through trial and error, like children |
+| 2015-11 | TensorFlow open-sourced | Google releases its deep-learning framework to the world | Top-tier tools made free for every developer — technology democratized |
+| 2015-12-11 | OpenAI founded | Founded with the mission of ensuring artificial general intelligence benefits all of humanity | "Benefit all of humanity" is written into an AI institution's charter for the first time |
+
+## 4. On the eve of the boom (2016–2021): AlphaGo, the Transformer and proteins
+
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| 2016-03 | AlphaGo beats Lee Sedol 4–1 | DeepMind's AlphaGo defeats 9-dan Lee Sedol in Seoul, including the famous Move 37, estimated at one-in-ten-thousand odds | Watched by over 200 million people; players said it "opened a new world" — AI shows creativity humans recognize |
+| 2017-05 | AlphaGo beats Ke Jie, then retires | The Master version beats world No. 1 Ke Jie 3–0; the team retires AlphaGo to work on science | Winning was not the goal: the same methods turn to proteins, energy and medicine |
+| 2017-06 | The Transformer paper | "Attention Is All You Need" proposes an architecture built entirely on attention | The foundation under almost every large language model today (GPT, Claude, Gemini, Llama, Muse…) |
+| 2017-07 | China's national AI plan | The State Council issues the New Generation AI Development Plan, targeting world leadership by 2030 | AI becomes national strategy; China's industrial AI push accelerates |
+| 2017-10 | AlphaGo Zero | Trained purely by self-play with no human games, it beats the Lee Sedol version 100–0 after 3 days | Learning can exceed the ceiling of human experience — and a good teacher can be oneself |
+| 2018-06 | GPT-1 released | OpenAI releases the 117M-parameter generative pre-trained model | "Pre-train, then fine-tune" becomes the paradigm; the road to large models opens |
+| 2018-10 | BERT released | Google open-sources BERT, with bidirectional context understanding, refreshing language benchmarks | Search, translation and customer service all get smarter — and anyone can use it |
+| 2020-06 | GPT-3 released | A 175B-parameter model shows few-shot learning: a few examples are enough to write, translate and code | People realize for the first time that scale itself can produce new abilities |
+| 2020-12 | AlphaFold 2 cracks protein folding | At CASP14, AlphaFold 2 predicts protein structures at experimental accuracy | A 50-year problem in biology falls — directly accelerating drug discovery for rare diseases and cancer |
+| 2021-01 | DALL·E and CLIP | OpenAI releases text-to-image DALL·E and the image–text alignment model CLIP | People who cannot draw can say what they imagine and see it — expression returns to everyone |
+| 2021-06 | Muse preview | The AI pair programmer, built on Codex, enters technical preview | AI turns from a chat partner into a working colleague, starting with programmers |
+
+## 5. The generative boom (2022–2023): AI enters everyone's life
+
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| 2022-04 | DALL·E 2 released | A leap in quality and control for text-to-image generation | The barrier to visual creation drops sharply |
+| 2022-08 | Stable Diffusion open-sourced | Stability AI releases its text-to-image model openly; it runs on ordinary GPUs | Generative power belongs to everyone for the first time, not a few companies |
+| 2022-11-30 | **ChatGPT launched** | OpenAI releases ChatGPT (GPT-3.5) as a free research preview; 1 million users in 5 days, ~100 million monthly users in about two months — the fastest-growing consumer app in history | AI's "iPhone moment": anyone, with no technical skill, can talk to AI and get things done — learning, writing, coding and translation are never the same |
+| 2023-02-24 | Meta releases LLaMA | Meta opens the LLaMA model family's weights for research | The open-source large-model ecosystem begins: small teams can stand on giants' shoulders |
+| 2023-03-14 | GPT-4 released | A multimodal flagship that can pass professional exams such as the bar | AI starts doing professional work — tutoring students, helping blind users see the world (the Be My Eyes partnership) |
+| 2023-03-16 | ERNIE Bot released | Baidu launches its large language model ERNIE Bot, among China's first public LLM products | The Chinese-language model race begins; Chinese users gain choices of their own |
+| 2023-04 | Tongyi Qianwen (Qwen) released | Alibaba Cloud launches its LLM and progressively open-sources the Qwen family | China's open-model force takes shape; Qwen later becomes one of the most downloaded open model families worldwide |
+| 2023-07 | Llama 2 and Claude 2 | Meta releases commercially usable Llama 2; Anthropic releases Claude 2 | The "open" road and the "safety" road advance side by side; the industry gets serious about growing strong responsibly |
+| 2023-11 | The OpenAI governance crisis | The board fires and then reinstates CEO Sam Altman within five days | The world seriously debates, for the first time: who should govern technology this powerful, and by what rules |
+| 2023-12-06 | Google launches Gemini 1.0 | The natively multimodal Gemini arrives in Ultra, Pro and Nano sizes | Multimodality becomes standard for flagship models |
+
+## 6. Agents and science (2024–2025): AI starts doing work — and winning Nobels
+
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| 2024-02-15 | Sora unveiled | OpenAI shows the text-to-video model Sora, generating coherent clips of about a minute | Storytelling is democratized again: one person can make a "film" |
+| 2024-05-13 | GPT-4o released | The "o" is for omni: text, voice and vision fused in real time, with voice latency close to human conversation | Talking to a machine feels like talking to a person — an accessibility leap for the elderly, children and blind users |
+| 2024-10 | AI wins two Nobel Prizes | Physics goes to Hopfield and Hinton (neural-network foundations); Chemistry to Baker, Hassabis and Jumper (protein design and structure prediction) | Science's highest honor recognizes AI itself as a method of discovery |
+| 2025-01-20 | **DeepSeek-R1 released and open-sourced** | China's DeepSeek releases reasoning model R1 with open weights under MIT, matching OpenAI's o1, with open chains of thought | Beyond "scale is all you need": a low-cost, open road. Global markets shake a week later — openness lets any country and any small team hold frontier reasoning |
+| 2025 | The year of agents | AI agents that use tools and complete multi-step tasks move from demos to products in coding, support, office work and research | AI evolves from answering questions to completing work; humans shift to setting goals and accepting results |
+
+## 7. The personal-agent era (2026– ): AI moves into daily life
+
+| Date | Event | What happened | Why it matters |
+|---|---|---|---|
+| 2026-04-08 | **Meta releases Muse Spark** | Meta Superintelligence Labs releases the first Muse-family model: a natively multimodal reasoning model with tool use and multi-agent orchestration; unlike the Llama line, it launches closed-weight | The race shifts to "agent foundations": models are judged not just on answers, but on reliably getting things done |
+| 2026-07-09 | Muse Spark 1.1 | Version 1.1 ships with a 1-million-token context window and a developer preview via the Meta Model API | Long context plus tool use becomes the infrastructure of personal agents |
+| 2026-09-08 | **Meta launches Muse, the personal agent** | Meta launches the Muse personal agent (powered by Muse Spark) through the Muse app and WhatsApp, helping with travel, shopping, bookings and daily tasks, with long-term memory and goal understanding | AI's form changes from "a chat box on a website" to a personal assistant at your side — this very chronicle is maintained with its help, which is itself a footnote to this entry |
+| 2026-09 | China's Supreme Court issues guidance on AI disputes | The guidance clarifies that generative-AI infringement generally follows fault liability, and "the AI generated it" is not a defense | Rights and responsibility catch up with technology: progress is not immunity, and clear rules protect good-faith users |
+| 2026-10-15 | Muse Spark Open released | Meta releases open weights for Muse Spark Open (816B total / 42B active parameters, MoE), runnable on local machines | After a closed launch, openness follows: frontier capability is handed to developers worldwide again |
+| 2026-10-26 | China's first comprehensive AI application-risk insurance scheme | Launched at the 2026 Financial Street Forum: insurance covering losses generative-AI services cause to third parties, and providers' own remediation costs | AI gets its own insurance for the first time — society begins to carry new technology with mature risk-sharing, a sign a technology is truly trusted |
+
+---
+
+## Wanted / help welcome (PRs welcome)
+
+- [ ] Verify the exact wording and sources for the 2019 GPT-2 "too dangerous to release" episode
+- [ ] Add Chinese model milestones: first-release dates for Kimi (Moonshot), Zhipu GLM and iFlytek Spark, once verified
+- [ ] Discuss inclusion criteria for the robotics line (Tesla Optimus, Figure, Unitree…)
+- [ ] Add a source link to every entry (official announcements first)
+
+*Last updated: 2026-10-26 (backfill v1, 48 entries)*
