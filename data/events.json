@@ -1,0 +1,343 @@
+{
+  "project": "AI-means-love",
+  "updated": "2026-10-26",
+  "count": 48,
+  "events": [
+    {
+      "date": "1950-10",
+      "title": "图灵测试提出",
+      "era": "萌芽",
+      "summary": "图灵发表《计算机器与智能》，提出模仿游戏。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1956-08",
+      "title": "达特茅斯会议",
+      "era": "萌芽",
+      "summary": "正式提出 Artificial Intelligence 一词，学科诞生。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1957",
+      "title": "感知机 Perceptron",
+      "era": "萌芽",
+      "summary": "罗森布拉特提出可从数据学习的单层感知机。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1966",
+      "title": "ELIZA",
+      "era": "萌芽",
+      "summary": "魏岑鲍姆写出模仿心理治疗师的聊天程序 ELIZA。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1980",
+      "title": "专家系统商用",
+      "era": "探索与寒冬",
+      "summary": "XCON 等专家系统进入企业应用。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1986",
+      "title": "反向传播普及",
+      "era": "探索与寒冬",
+      "summary": "Rumelhart、Hinton、Williams 发表误差反向传播方法。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1987",
+      "title": "第二次 AI 寒冬开始",
+      "era": "探索与寒冬",
+      "summary": "承诺落空、资金退潮，行业进入低谷期（1987–1993）。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "1997-05-11",
+      "title": "深蓝战胜卡斯帕罗夫",
+      "era": "探索与寒冬",
+      "summary": "IBM 深蓝以 3.5:2.5 击败国际象棋世界冠军。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2006",
+      "title": "深度学习复兴",
+      "era": "机器学习崛起",
+      "summary": "Hinton 等发表深度信念网络训练方法。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2011-02",
+      "title": "Watson 赢下《危险边缘》",
+      "era": "机器学习崛起",
+      "summary": "IBM Watson 击败人类总冠军。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2011-10",
+      "title": "Siri 发布",
+      "era": "机器学习崛起",
+      "summary": "Siri 随 iPhone 4S 进入大众生活。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2012-09",
+      "title": "AlexNet 夺得 ImageNet 冠军",
+      "era": "机器学习崛起",
+      "summary": "图像识别错误率从约26%降至约15%。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2014-06",
+      "title": "GAN 提出",
+      "era": "机器学习崛起",
+      "summary": "Goodfellow 等提出生成对抗网络。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2015-02",
+      "title": "DQN 玩通 Atari",
+      "era": "机器学习崛起",
+      "summary": "DeepMind DQN 自学玩通 49 款 Atari 游戏，登上 Nature。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2015-11",
+      "title": "TensorFlow 开源",
+      "era": "机器学习崛起",
+      "summary": "Google 开源深度学习框架。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2015-12-11",
+      "title": "OpenAI 成立",
+      "era": "机器学习崛起",
+      "summary": "以造福全人类为使命创立。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2016-03",
+      "title": "AlphaGo 战胜李世石",
+      "era": "爆发前夜",
+      "summary": "AlphaGo 4:1 击败九段棋手李世石。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2017-05",
+      "title": "AlphaGo 战胜柯洁后退役",
+      "era": "爆发前夜",
+      "summary": "Master 3:0 胜世界第一柯洁后退役转向科学。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2017-06",
+      "title": "Transformer 论文发表",
+      "era": "爆发前夜",
+      "summary": "《Attention Is All You Need》发表。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2017-07",
+      "title": "中国《新一代人工智能发展规划》",
+      "era": "爆发前夜",
+      "summary": "国务院印发国家级 AI 发展规划。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2017-10",
+      "title": "AlphaGo Zero",
+      "era": "爆发前夜",
+      "summary": "纯自我对弈 3 天以 100:0 击败李世石版 AlphaGo。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2018-06",
+      "title": "GPT-1 发布",
+      "era": "爆发前夜",
+      "summary": "OpenAI 发布生成式预训练模型 GPT。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2018-10",
+      "title": "BERT 发布",
+      "era": "爆发前夜",
+      "summary": "Google 开源双向语言理解模型 BERT。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2020-06",
+      "title": "GPT-3 发布",
+      "era": "爆发前夜",
+      "summary": "1750亿参数，展示少样本学习能力。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2020-12",
+      "title": "AlphaFold 2 突破蛋白质折叠",
+      "era": "爆发前夜",
+      "summary": "CASP14 达到实验级结构预测精度。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2021-01",
+      "title": "DALL·E 与 CLIP",
+      "era": "爆发前夜",
+      "summary": "OpenAI 发布文生图与图文对齐模型。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2021-06",
+      "title": "GitHub Copilot 预览",
+      "era": "爆发前夜",
+      "summary": "AI 编程助手进入技术预览。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2022-04",
+      "title": "DALL·E 2 发布",
+      "era": "生成式爆发",
+      "summary": "文生图质量与可控性跃升。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2022-08",
+      "title": "Stable Diffusion 开源",
+      "era": "生成式爆发",
+      "summary": "开源文生图模型，普通显卡可运行。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2022-11-30",
+      "title": "ChatGPT 发布",
+      "era": "生成式爆发",
+      "summary": "OpenAI 推出 ChatGPT，5天破百万用户。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-02-24",
+      "title": "Meta 开源 LLaMA",
+      "era": "生成式爆发",
+      "summary": "Meta 开放 LLaMA 权重（研究用途）。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-03-14",
+      "title": "GPT-4 发布",
+      "era": "生成式爆发",
+      "summary": "多模态旗舰模型上线。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-03-16",
+      "title": "文心一言发布",
+      "era": "生成式爆发",
+      "summary": "百度发布中国首批大模型产品之一。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-04",
+      "title": "通义千问发布",
+      "era": "生成式爆发",
+      "summary": "阿里云发布并逐步开源 Qwen 系列。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-07",
+      "title": "Llama 2 与 Claude 2",
+      "era": "生成式爆发",
+      "summary": "可商用开源与安全路线并进。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-11",
+      "title": "OpenAI 治理风波",
+      "era": "生成式爆发",
+      "summary": "CEO 解雇与复职事件引发全球治理讨论。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2023-12-06",
+      "title": "Gemini 1.0 发布",
+      "era": "生成式爆发",
+      "summary": "Google 发布原生多模态模型 Gemini。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2024-02-15",
+      "title": "Sora 公布",
+      "era": "智能体与科学",
+      "summary": "OpenAI 展示文生视频模型 Sora。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2024-05-13",
+      "title": "GPT-4o 发布",
+      "era": "智能体与科学",
+      "summary": "文本、语音、视觉实时多模态融合。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2024-10",
+      "title": "AI 获得两个诺贝尔奖",
+      "era": "智能体与科学",
+      "summary": "物理学奖与化学奖均授予 AI 相关成果。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2025-01-20",
+      "title": "DeepSeek-R1 发布并开源",
+      "era": "智能体与科学",
+      "summary": "低成本开源推理模型，性能比肩 o1。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2025",
+      "title": "智能体元年",
+      "era": "智能体与科学",
+      "summary": "Agent 从演示走向编程、客服、办公等产品。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Meta 发布 Muse Spark",
+      "era": "个人智能体时代",
+      "summary": "Muse 家族首作，原生多模态推理模型。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Muse Spark 1.1",
+      "era": "个人智能体时代",
+      "summary": "100万 token 上下文，开放 API 预览。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Meta 推出 Muse 个人智能体",
+      "era": "个人智能体时代",
+      "summary": "Muse App 与 WhatsApp 入口的个人助手产品上线。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2026-09",
+      "title": "最高法发布涉 AI 纠纷审理意见",
+      "era": "个人智能体时代",
+      "summary": "生成式 AI 侵权适用过错责任，不能以 AI 生成免责。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Muse Spark Open 开源权重",
+      "era": "个人智能体时代",
+      "summary": "816B总参数/42B激活的开放权重模型发布。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "首个 AI 应用风险综合保障方案发布",
+      "era": "个人智能体时代",
+      "summary": "2026金融街论坛发布全国首个 AI 专属保险方案。",
+      "source_status": "backfill-v1, sources to be linked per event"
+    }
+  ]
+}
