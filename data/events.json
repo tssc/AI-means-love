@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 48,
+  "count": 50,
   "events": [
     {
       "date": "1950-10",
@@ -425,6 +425,24 @@
       "source_status": "backfill-v1, sources to be linked per event",
       "title_en": "Muse Spark Open released",
       "summary_en": "Open weights: 816B total / 42B active parameters."
+    },
+    {
+      "date": "2026-10-17",
+      "title": "DeepSeek V4.1-Flash-1017 开放权重",
+      "era": "个人智能体时代",
+      "summary": "DeepSeek 就地升级 V4.1-Flash 至 1017 版并同日开放 MIT 权重，价格与调用方式不变。",
+      "source_status": "backfill 2026-10-26, dual-source checked (official changelog reports + independent coverage)",
+      "title_en": "DeepSeek V4.1-Flash-1017 open weights",
+      "summary_en": "DeepSeek upgrades V4.1-Flash in place to the 1017 build and releases MIT weights the same day, price and API unchanged."
+    },
+    {
+      "date": "2026-10-23",
+      "title": "月之暗面发布 Kimi K3.1 Pro",
+      "era": "个人智能体时代",
+      "summary": "月之暗面发布 3T 级开放权重旗舰 Kimi K3.1 Pro（2.8T/104B、1M 上下文），权重承诺 11 月 4 日前开放。",
+      "source_status": "backfill 2026-10-26, dual-source checked (official announcement + independent coverage)",
+      "title_en": "Moonshot releases Kimi K3.1 Pro",
+      "summary_en": "Moonshot releases the 3T-class open-weight flagship Kimi K3.1 Pro (2.8T/104B, 1M context); weights promised by Nov 4."
     },
     {
       "date": "2026-10-26",

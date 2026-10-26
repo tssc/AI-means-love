@@ -52,7 +52,7 @@ Seis proyectos con el mismo espíritu de esta crónica: abiertos, generosos y ú
 
 ## Estado
 
-- [x] Primera versión retrospectiva: 1950–2026, 48 entradas (2026-10-26)
+- [x] Primera versión retrospectiva: 1950–2026, 50 entradas (2026-10-26)
 - [x] Publicado en GitHub (2026-10-26, https://github.com/tssc/AI-means-love)
 - [x] Multilingüe: 10 idiomas, inglés como fuente canónica (2026-10-26)
 - [ ] Actualización diaria en marcha (cada día a las 21:00 CST se prepara un borrador y se revisa antes de publicar)
