@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#ffffff"/>
+  <text x="600" y="118" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#111111">AI-means-love</text>
+  <text x="600" y="168" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#555555">AI = 爱 = Love · A daily chronicle of AI history</text>
+  <line x1="140" y1="238" x2="1060" y2="238" stroke="#dddddd" stroke-width="3"/>
+  <circle cx="180" cy="238" r="9" fill="#e0245e"/>
+  <circle cx="400" cy="238" r="9" fill="#111111"/>
+  <circle cx="620" cy="238" r="9" fill="#111111"/>
+  <circle cx="840" cy="238" r="9" fill="#111111"/>
+  <circle cx="1020" cy="238" r="9" fill="#e0245e"/>
+  <text x="180" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#888888">1950</text>
+  <text x="400" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#888888">1997</text>
+  <text x="620" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#888888">2016</text>
+  <text x="840" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#888888">2022</text>
+  <text x="1020" y="278" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#888888">today</text>
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#111111">Stay hungry. Stay foolish.</text>
+</svg>

@@ -1,5 +1,7 @@
 # Historia de la IA · TIMELINE
 
+[EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · [KO](../ko/TIMELINE.md) · **ES** · [FR](../fr/TIMELINE.md) · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
+
 > 🚧 **Traducción en curso.** La línea de tiempo completa (48 entradas, 1950–2026) está disponible en la [versión canónica en inglés](../../TIMELINE.md), y ya traducida por completo en [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) y [한국어](../ko/TIMELINE.md). Las PR de traducción son muy bienvenidas — consulta `docs/I18N.md`.
 
 ## Cómo leer esta línea de tiempo

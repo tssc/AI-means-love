@@ -1,5 +1,7 @@
 # История ИИ · TIMELINE
 
+[EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · [KO](../ko/TIMELINE.md) · [ES](../es/TIMELINE.md) · [FR](../fr/TIMELINE.md) · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · **RU**
+
 > 🚧 **Перевод в работе.** Полная лента времени (48 записей, 1950–2026) доступна в [канонической английской версии](../../TIMELINE.md) и уже полностью переведена на [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) и [한국어](../ko/TIMELINE.md). PR с переводами очень приветствуются — см. `docs/I18N.md`.
 
 ## Как читать эту ленту времени

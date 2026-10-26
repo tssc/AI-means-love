@@ -1,6 +1,6 @@
 # A History of AI · TIMELINE
 
-**Languages:** English · [简体中文](i18n/zh-CN/TIMELINE.md) · [繁體中文](i18n/zh-TW/TIMELINE.md) · [日本語](i18n/ja/TIMELINE.md) · [한국어](i18n/ko/TIMELINE.md) · [Español](i18n/es/TIMELINE.md) · [Français](i18n/fr/TIMELINE.md) · [Deutsch](i18n/de/TIMELINE.md) · [Português](i18n/pt-BR/TIMELINE.md) · [Русский](i18n/ru/TIMELINE.md)
+**EN** · [ZH-CN](i18n/zh-CN/TIMELINE.md) · [ZH-TW](i18n/zh-TW/TIMELINE.md) · [JA](i18n/ja/TIMELINE.md) · [KO](i18n/ko/TIMELINE.md) · [ES](i18n/es/TIMELINE.md) · [FR](i18n/fr/TIMELINE.md) · [DE](i18n/de/TIMELINE.md) · [PT](i18n/pt-BR/TIMELINE.md) · [RU](i18n/ru/TIMELINE.md)
 > How to read: each entry = date | event | what happened | **why it matters (the good it brings)**
 > Verification rule: official sources first, cross-checked with independent reporting. If only the month is verifiable, only the month is shown.
 > Note: Facebook renamed itself Meta in 2021, so the Muse family is recorded under **Meta**.

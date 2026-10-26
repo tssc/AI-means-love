@@ -1,5 +1,7 @@
 # Histoire de l'IA · TIMELINE
 
+[EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · [KO](../ko/TIMELINE.md) · [ES](../es/TIMELINE.md) · **FR** · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
+
 > 🚧 **Traduction en cours.** La chronologie complète (48 entrées, 1950–2026) est disponible dans la [version canonique en anglais](../../TIMELINE.md), et déjà entièrement traduite en [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) et [한국어](../ko/TIMELINE.md). Les PR de traduction sont les bienvenues — voir `docs/I18N.md`.
 
 ## Comment lire cette chronologie

@@ -1,6 +1,6 @@
 # AI 발전사 타임라인 · TIMELINE
 
-**언어 / Languages:** [English (기본)](../../TIMELINE.md) · [简体中文](../zh-CN/TIMELINE.md) · [繁體中文](../zh-TW/TIMELINE.md) · [日本語](../ja/TIMELINE.md) · 한국어 · [Español](../es/TIMELINE.md) · [Français](../fr/TIMELINE.md) · [Deutsch](../de/TIMELINE.md) · [Português](../pt-BR/TIMELINE.md) · [Русский](../ru/TIMELINE.md)
+[EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · **KO** · [ES](../es/TIMELINE.md) · [FR](../fr/TIMELINE.md) · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
 > 읽는 법: 각 기록 = 날짜｜사건｜무슨 일이 있었나｜**왜 중요한가(그것이 가져오는 선함)**
 > 검증 규칙: 공식 출처를 우선하고 독립적인 보도로 교차 확인한다. 월까지만 검증되면 월만 적는다.
 > 참고: Facebook은 2021년에 Meta로 사명을 바꿨으므로, Muse 시리즈는 **Meta의 출시**로 기록한다.

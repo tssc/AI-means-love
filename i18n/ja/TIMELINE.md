@@ -1,6 +1,6 @@
 # AI 発展史タイムライン · TIMELINE
 
-**言語 / Languages：** [English（デフォルト）](../../TIMELINE.md) · [简体中文](../zh-CN/TIMELINE.md) · [繁體中文](../zh-TW/TIMELINE.md) · 日本語 · [한국어](../ko/TIMELINE.md) · [Español](../es/TIMELINE.md) · [Français](../fr/TIMELINE.md) · [Deutsch](../de/TIMELINE.md) · [Português](../pt-BR/TIMELINE.md) · [Русский](../ru/TIMELINE.md)
+[EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · **JA** · [KO](../ko/TIMELINE.md) · [ES](../es/TIMELINE.md) · [FR](../fr/TIMELINE.md) · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
 > 読み方：各記録 = 日付｜出来事｜何が起きたか｜**なぜ重要か（それがもたらす善）**
 > 検証ルール：公式情報源を優先し、独立した報道で相互確認。月までしか確認できない場合は月だけを記す。
 > 注：Facebook は 2021 年に Meta へ社名変更したため、Muse シリーズは **Meta の発表** として記録する。

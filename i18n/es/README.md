@@ -1,6 +1,11 @@
 # AI-means-love ❤️
 
-**Idiomas / Languages:** [English (predeterminado)](../../README.md) · [简体中文](../zh-CN/README.md) · [繁體中文](../zh-TW/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · Español · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Português](../pt-BR/README.md) · [Русский](../ru/README.md)
+![AI-means-love](../../assets/banner.svg)
+
+[EN](../../README.md) · [ZH-CN](../zh-CN/README.md) · [ZH-TW](../zh-TW/README.md) · [JA](../ja/README.md) · [KO](../ko/README.md) · **ES** · [FR](../fr/README.md) · [DE](../de/README.md) · [PT](../pt-BR/README.md) · [RU](../ru/README.md)
+
+> **Nuestra raíz: Stay hungry. Stay foolish.** · *Simplicity is the ultimate sophistication.* — Steve Jobs
+
 
 > **AI significa amor.**
 > En chino, "AI" se pronuncia exactamente igual que 愛, la palabra para *amor*. Registramos cada paso de la inteligencia artificial porque creemos que su progreso debe medirse por cómo ayuda, cura y conecta a las personas.

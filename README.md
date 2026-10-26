@@ -1,6 +1,11 @@
 # AI-means-love ❤️
 
-**Languages:** English (default) · [简体中文](i18n/zh-CN/README.md) · [繁體中文](i18n/zh-TW/README.md) · [日本語](i18n/ja/README.md) · [한국어](i18n/ko/README.md) · [Español](i18n/es/README.md) · [Français](i18n/fr/README.md) · [Deutsch](i18n/de/README.md) · [Português](i18n/pt-BR/README.md) · [Русский](i18n/ru/README.md)
+![AI-means-love](assets/banner.svg)
+
+**EN** · [ZH-CN](i18n/zh-CN/README.md) · [ZH-TW](i18n/zh-TW/README.md) · [JA](i18n/ja/README.md) · [KO](i18n/ko/README.md) · [ES](i18n/es/README.md) · [FR](i18n/fr/README.md) · [DE](i18n/de/README.md) · [PT](i18n/pt-BR/README.md) · [RU](i18n/ru/README.md)
+
+> **Our foundation: Stay hungry. Stay foolish.** · *Simplicity is the ultimate sophistication.* — Steve Jobs
+
 
 > **AI means love.**
 > In Chinese, "AI" is pronounced exactly like 愛 — the word for *love*. We record every step of artificial intelligence because we believe its progress should be measured by how it helps, heals and connects people.
@@ -31,23 +36,14 @@ AI-means-love/
 ├── i18n/<locale>/              # README + TIMELINE per language
 ├── data/events.json            # Structured events (canonical)
 ├── daily/                      # One entry per day
+├── assets/                     # Banner and images
 └── docs/                       # DAILY_UPDATE.md · I18N.md
 ```
 
 ## Translation status
 
-| Language | README | TIMELINE |
-|---|---|---|
-| English (canonical) | ✅ | ✅ 48 entries |
-| 简体中文 zh-CN | ✅ | ✅ 48 entries |
-| 繁體中文 zh-TW | ✅ | ✅ 48 entries |
-| 日本語 ja | ✅ | ✅ 48 entries |
-| 한국어 ko | ✅ | ✅ 48 entries |
-| Español es | ✅ | 🚧 in progress — see English |
-| Français fr | ✅ | 🚧 in progress — see English |
-| Deutsch de | ✅ | 🚧 in progress — see English |
-| Português pt-BR | ✅ | 🚧 in progress — see English |
-| Русский ru | ✅ | 🚧 in progress — see English |
+**Full (README + 48-entry TIMELINE):** EN · ZH-CN · ZH-TW · JA · KO
+**README full, TIMELINE in progress:** ES · FR · DE · PT · RU
 
 English is the canonical source; other languages sync from it under the rules in `docs/I18N.md`. Translation PRs are very welcome.
 

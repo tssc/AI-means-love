@@ -1,6 +1,11 @@
 # AI-means-love ❤️
 
-**言語 / Languages：** [English（デフォルト）](../../README.md) · [简体中文](../zh-CN/README.md) · [繁體中文](../zh-TW/README.md) · 日本語 · [한국어](../ko/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Português](../pt-BR/README.md) · [Русский](../ru/README.md)
+![AI-means-love](../../assets/banner.svg)
+
+[EN](../../README.md) · [ZH-CN](../zh-CN/README.md) · [ZH-TW](../zh-TW/README.md) · **JA** · [KO](../ko/README.md) · [ES](../es/README.md) · [FR](../fr/README.md) · [DE](../de/README.md) · [PT](../pt-BR/README.md) · [RU](../ru/README.md)
+
+> **私たちの根幹：Stay hungry. Stay foolish.** · *Simplicity is the ultimate sophistication.（究極の洗練はシンプルさ）* — Steve Jobs
+
 
 > **AI、それは「愛」。**
 > 中国語で「AI」は「愛（アイ）」とまったく同じ発音です。人工知能の歩みを記録するのは、知能が人を助け、癒し、つなぐ姿を記録するためだと私たちは信じています。

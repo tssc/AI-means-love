@@ -1,6 +1,6 @@
 # AI 发展史时间线 · TIMELINE
 
-**语言 / Languages：** [English（默认）](../../TIMELINE.md) · 简体中文 · [繁體中文](../zh-TW/TIMELINE.md) · [日本語](../ja/TIMELINE.md) · [한국어](../ko/TIMELINE.md) · [Español](../es/TIMELINE.md) · [Français](../fr/TIMELINE.md) · [Deutsch](../de/TIMELINE.md) · [Português](../pt-BR/TIMELINE.md) · [Русский](../ru/TIMELINE.md)
+[EN](../../TIMELINE.md) · **ZH-CN** · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · [KO](../ko/TIMELINE.md) · [ES](../es/TIMELINE.md) · [FR](../fr/TIMELINE.md) · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
 > 读法：每个节点 = 日期｜事件｜发生了什么｜**为什么重要（它带来的善）**
 > 核查规则：官方来源优先 + 独立来源交叉；只能核实到月的，只写月份。
 > 说明：Facebook 已于 2021 年更名为 Meta，因此「Muse」系列按 **Meta 推出** 记录。
