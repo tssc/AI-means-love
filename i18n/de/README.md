@@ -32,6 +32,19 @@ Jeder Eintrag verlangt **zuerst eine offizielle Quelle plus mindestens eine unab
 
 Ein falsches Datum, ein fehlender Meilenstein oder eine bessere Quelle? Eröffne ein Issue oder einen PR mit Datum, Quellenlink und einem Satz Erklärung.
 
+## Projekte, die wir empfehlen
+
+Sechs Projekte mit demselben Geist wie diese Chronik — offen, großzügig und für ganz normale Menschen nützlich. Sterne: Stand Oktober 2026.
+
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** ★556k — Lernen, indem man seine Lieblingstechnik von Grund auf nachbaut — Verstehen auf die *stay hungry*-Art.
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** ★457k — Kostenlose Programmierausbildung für die ganze Welt; schon über 100.000 Menschen zum ersten Entwicklerjob verholfen.
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** ★400k — Kostenlose Programmierbücher in über 40 Sprachen — Wissen wird geteilt, nicht eingemauert.
+- **[ollama/ollama](https://github.com/ollama/ollama)** ★184k — Offene Modelle (DeepSeek, Qwen, Gemma…) auf dem eigenen Rechner laufen lassen: KI für alle, Privatsphäre zu Hause.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** ★168k — Die offene Drehscheibe moderner KI: über 1 Million geteilte Modellgewichte — die Frontier bleibt nicht hinter Mauern.
+- **[openai/whisper](https://github.com/openai/whisper)** ★111k — Open-Source-Spracherkennung: Untertitel, Transkripte und Barrierefreiheit — damit jede*r Klang „lesen“ kann.
+
+*Werden gelegentlich ausgetauscht — ein Projekt vorzuschlagen? Einfach ein Issue öffnen.*
+
 ## Stand
 
 - [x] Rückblick v1: 1950–2026, 48 Einträge (2026-10-26)

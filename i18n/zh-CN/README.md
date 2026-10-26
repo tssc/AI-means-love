@@ -53,6 +53,19 @@ AI-means-love/
 
 发现日期错误、遗漏的重要节点、或有更好的来源，欢迎提 Issue / PR：附上日期、出处链接和一句话说明即可。
 
+## 我们推荐的 GitHub 项目
+
+六个和本编年史气质相通的项目——开放、慷慨、对普通人真的有用。星标为 2026 年 10 月数据。
+
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** ★556k — 从零复刻你喜欢的技术来真正理解它——最「求知若饥」的学法。
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** ★457k — 面向全世界的免费编程教育，已帮助 10 万+ 人拿到第一份开发工作。
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** ★400k — 40 多种语言的免费编程书单——知识被分享，而不是被围墙锁住。
+- **[ollama/ollama](https://github.com/ollama/ollama)** ★184k — 在自己的电脑上跑 DeepSeek、Qwen、Gemma 等开源模型：AI 属于每个人，隐私留在自己手里。
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** ★168k — 现代 AI 的开源中枢：100 万+ 模型权重开放共享，前沿不再被锁在墙内。
+- **[openai/whisper](https://github.com/openai/whisper)** ★111k — 开源语音识别：字幕、转写与无障碍——让每个人都能「读」到声音。
+
+*不定期轮换——有值得上榜的项目？欢迎在 Issue 里推荐。*
+
 ## 状态
 
 - [x] 历史回填 v1：1950–2026，共 48 个节点（2026-10-26）

@@ -56,11 +56,25 @@ English is the canonical source; other languages sync from it under the rules in
 
 Spotted a wrong date, a missing milestone, or a better source? Open an Issue or PR with the date, a source link and one sentence of explanation.
 
+## Projects we love
+
+Six projects that share this chronicle's spirit — open, generous, and useful to ordinary people. Stars as of Oct 2026.
+
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** ★556k — Learn by rebuilding the tech you love, from scratch — the *stay hungry* way to truly understand.
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** ★457k — Free coding education for the whole world; it has already helped 100,000+ people land their first developer job.
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** ★400k — Freely available programming books in 40+ languages — knowledge, shared, with no paywall.
+- **[ollama/ollama](https://github.com/ollama/ollama)** ★184k — Run open models (DeepSeek, Qwen, Gemma…) on your own machine: AI that belongs to everyone, with privacy at home.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** ★168k — The open hub of modern AI: 1M+ model checkpoints, shared so the frontier is never locked away.
+- **[openai/whisper](https://github.com/openai/whisper)** ★111k — Open-source speech recognition: subtitles, transcripts and accessibility — letting everyone “read” sound.
+
+*Rotated occasionally — know a project that belongs here? Suggest it in an Issue.*
+
 ## Status
 
 - [x] Backfill v1: 1950–2026, 48 entries (2026-10-26)
 - [x] Published on GitHub (2026-10-26, https://github.com/tssc/AI-means-love)
 - [x] Multilingual: 10 languages, English canonical (2026-10-26)
+- [x] Homepage recommends six kindred open-source projects — see "Projects we love" below (2026-10-26)
 - [ ] Daily updates running (every day at 21:00 CST a draft is prepared and reviewed before publishing)
 - [ ] Next: a visual timeline website
 

@@ -37,6 +37,19 @@
 
 日付の誤り、漏れている重要な節目、より良い出典を見つけたら、Issue / PR を歓迎します。日付、出典リンク、一文の説明を添えてください。
 
+## おすすめの GitHub プロジェクト
+
+この年代記と同じ精神を持つ 6 つのプロジェクト——オープンで、惜しみなく、普通の人の役に立つもの。スター数は 2026 年 10 月時点。
+
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** ★556k — 好きな技術をゼロから作り直して本当に理解する——「渇望し続ける」学び方。
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** ★457k — 世界中への無料プログラミング教育。すでに 10 万人以上の最初の開発者職を後押し。
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** ★400k — 40 以上の言語の無料プログラミング書籍リスト——知識は囲うものではなく、分け合うもの。
+- **[ollama/ollama](https://github.com/ollama/ollama)** ★184k — 自分のパソコンで DeepSeek や Qwen、Gemma などのオープンモデルを動かす：AI はみんなのもの、プライバシーは手元に。
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** ★168k — 現代 AI のオープンな中核：100 万以上のモデルが公開・共有され、最先端は壁の中に閉ざされない。
+- **[openai/whisper](https://github.com/openai/whisper)** ★111k — オープンソースの音声認識：字幕・文字起こし・アクセシビリティ——誰もが音を「読める」ように。
+
+*不定期に入れ替えます——載せるべきプロジェクトがあれば Issue で教えてください。*
+
 ## 状況
 
 - [x] 振り返り v1：1950–2026、全 48 件（2026-10-26）

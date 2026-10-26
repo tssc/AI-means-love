@@ -37,6 +37,19 @@
 
 날짜 오류, 빠진 중요한 이정표, 더 좋은 출처를 발견하면 Issue / PR을 환영합니다. 날짜, 출처 링크, 한 문장 설명을 붙여 주세요.
 
+## 추천 GitHub 프로젝트
+
+이 연대기와 같은 정신을 가진 여섯 프로젝트 — 개방적이고, 아낌없고, 보통 사람들에게 진짜로 유용합니다. 스타 수는 2026년 10월 기준.
+
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** ★556k — 좋아하는 기술을 처음부터 다시 만들며 진짜로 이해하기 — ‘배고프게 배우는’ 법.
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** ★457k — 전 세계를 위한 무료 코딩 교육. 이미 10만+ 명이 첫 개발자 일자리를 얻도록 도왔다.
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** ★400k — 40개+ 언어의 무료 프로그래밍 도서 목록 — 지식은 가두는 것이 아니라 나누는 것.
+- **[ollama/ollama](https://github.com/ollama/ollama)** ★184k — 내 컴퓨터에서 DeepSeek, Qwen, Gemma 같은 오픈 모델 실행: AI는 모두의 것, 개인정보는 내 손에.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** ★168k — 현대 AI의 오픈 허브: 100만+ 모델 가중치가 공유되어 최전선이 벽 안에 갇히지 않는다.
+- **[openai/whisper](https://github.com/openai/whisper)** ★111k — 오픈소스 음성 인식: 자막, 전사, 접근성 — 누구나 소리를 ‘읽을’ 수 있게.
+
+*비정기적으로 교체합니다 — 추천할 프로젝트가 있으면 Issue로 알려 주세요.*
+
 ## 현황
 
 - [x] 회고 v1: 1950–2026, 총 48건 (2026-10-26)

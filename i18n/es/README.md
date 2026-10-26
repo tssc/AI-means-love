@@ -37,6 +37,19 @@ Cada entrada exige **primero una fuente oficial, más al menos una fuente indepe
 
 ¿Viste una fecha incorrecta, un hito que falta o una fuente mejor? Abre un Issue o un PR con la fecha, un enlace a la fuente y una frase de explicación.
 
+## Proyectos que recomendamos
+
+Seis proyectos con el mismo espíritu de esta crónica: abiertos, generosos y útiles para la gente común. Estrellas a octubre de 2026.
+
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** ★556k — Aprender reconstruyendo desde cero la tecnología que amas: la forma *stay hungry* de entender de verdad.
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** ★457k — Educación en programación gratuita para todo el mundo; ya ha ayudado a más de 100.000 personas a conseguir su primer empleo como desarrolladoras.
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** ★400k — Libros de programación gratuitos en más de 40 idiomas: conocimiento compartido, sin muros de pago.
+- **[ollama/ollama](https://github.com/ollama/ollama)** ★184k — Ejecuta modelos abiertos (DeepSeek, Qwen, Gemma…) en tu propio equipo: una IA de todos, con la privacidad en casa.
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** ★168k — El centro abierto de la IA moderna: más de 1 millón de modelos compartidos; la frontera no queda tras un muro.
+- **[openai/whisper](https://github.com/openai/whisper)** ★111k — Reconocimiento de voz de código abierto: subtítulos, transcripciones y accesibilidad, para que todos puedan «leer» el sonido.
+
+*Se renuevan de vez en cuando. ¿Conoces uno que merezca estar aquí? Sugérelo en un Issue.*
+
 ## Estado
 
 - [x] Primera versión retrospectiva: 1950–2026, 48 entradas (2026-10-26)
