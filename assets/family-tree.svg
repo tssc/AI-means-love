@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2920" height="1720" viewBox="0 0 2920 1720">
+<rect width="2920" height="1720" fill="#ffffff"/>
+<text x="1460" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#111111">THE AI FAMILY TREE · AI 族谱</text>
+<text x="1460" y="140" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="27" fill="#888888">One trunk, five families — every model has ancestors. 一棵主干，五个家族——每个模型都有祖先。</text>
+<line x1="265" y1="320" x2="265" y2="835" stroke="#cccccc" stroke-width="8"/>
+<rect x="90" y="300" width="350" height="92" rx="16" fill="#343a40"/>
+<text x="265.0" y="340.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">1950</text>
+<text x="265.0" y="378.0" text-anchor="middle" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">Turing Test 图灵测试</text>
+<rect x="90" y="450" width="350" height="92" rx="16" fill="#343a40"/>
+<text x="265.0" y="490.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">1957</text>
+<text x="265.0" y="528.0" text-anchor="middle" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">Perceptron 感知机</text>
+<rect x="90" y="600" width="350" height="92" rx="16" fill="#343a40"/>
+<text x="265.0" y="640.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">1986</text>
+<text x="265.0" y="678.0" text-anchor="middle" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">Backprop 反向传播</text>
+<rect x="90" y="750" width="350" height="92" rx="16" fill="#343a40"/>
+<text x="265.0" y="790.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2006</text>
+<text x="265.0" y="828.0" text-anchor="middle" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">Deep Learning 复兴</text>
+<rect x="90" y="900" width="350" height="92" rx="16" fill="#343a40"/>
+<text x="265.0" y="940.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2012</text>
+<text x="265.0" y="978.0" text-anchor="middle" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">AlexNet</text>
+<rect x="90" y="1050" width="350" height="92" rx="16" fill="#343a40"/>
+<text x="265.0" y="1090.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2016</text>
+<text x="265.0" y="1128.0" text-anchor="middle" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">AlphaGo</text>
+<rect x="580" y="760" width="460" height="150" rx="16" fill="#e0245e"/>
+<text x="810.0" y="829.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="25" fill="#ffffff" opacity="0.85">2017 · THE BIG BANG 大爆炸</text>
+<text x="810.0" y="867.0" text-anchor="middle" textLength="436" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">TRANSFORMER</text>
+<line x1="440" y1="835" x2="580" y2="835" stroke="#e0245e" stroke-width="7"/>
+<text x="1180" y="184" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e8710a">GPT 家族 · The GPT Family</text>
+<line x1="1040" y1="835" x2="1140" y2="835" stroke="#e8710a" stroke-width="4"/>
+<line x1="1140" y1="835" x2="1140" y2="256" stroke="#e8710a" stroke-width="4"/>
+<line x1="1140" y1="256" x2="1180" y2="256" stroke="#e8710a" stroke-width="4"/>
+<rect x="1180" y="210" width="300" height="92" rx="16" fill="#e8710a"/>
+<text x="1330.0" y="250.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2018</text>
+<text x="1330.0" y="288.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">GPT-1</text>
+<line x1="1480" y1="256" x2="1508" y2="256" stroke="#e8710a" stroke-width="5"/>
+<rect x="1508" y="210" width="300" height="92" rx="16" fill="#e8710a"/>
+<text x="1658.0" y="250.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2020</text>
+<text x="1658.0" y="288.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">GPT-3</text>
+<line x1="1808" y1="256" x2="1836" y2="256" stroke="#e8710a" stroke-width="5"/>
+<rect x="1836" y="210" width="300" height="92" rx="16" fill="#e8710a"/>
+<text x="1986.0" y="250.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2022</text>
+<text x="1986.0" y="288.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">ChatGPT</text>
+<line x1="2136" y1="256" x2="2164" y2="256" stroke="#e8710a" stroke-width="5"/>
+<rect x="2164" y="210" width="300" height="92" rx="16" fill="#e8710a"/>
+<text x="2314.0" y="250.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2023</text>
+<text x="2314.0" y="288.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">GPT-4</text>
+<line x1="2464" y1="256" x2="2492" y2="256" stroke="#e8710a" stroke-width="5"/>
+<rect x="2492" y="210" width="300" height="92" rx="16" fill="#e8710a"/>
+<text x="2642.0" y="250.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2024</text>
+<text x="2642.0" y="288.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">GPT-4o</text>
+<text x="1180" y="484" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1a9850">开源家族 · The Open Family</text>
+<line x1="1040" y1="835" x2="1140" y2="835" stroke="#1a9850" stroke-width="4"/>
+<line x1="1140" y1="835" x2="1140" y2="556" stroke="#1a9850" stroke-width="4"/>
+<line x1="1140" y1="556" x2="1180" y2="556" stroke="#1a9850" stroke-width="4"/>
+<rect x="1180" y="510" width="300" height="92" rx="16" fill="#1a9850"/>
+<text x="1330.0" y="550.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2015</text>
+<text x="1330.0" y="588.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">TensorFlow</text>
+<line x1="1480" y1="556" x2="1508" y2="556" stroke="#1a9850" stroke-width="5"/>
+<rect x="1508" y="510" width="300" height="92" rx="16" fill="#1a9850"/>
+<text x="1658.0" y="550.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2023</text>
+<text x="1658.0" y="588.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">LLaMA</text>
+<line x1="1808" y1="556" x2="1836" y2="556" stroke="#1a9850" stroke-width="5"/>
+<rect x="1836" y="510" width="300" height="92" rx="16" fill="#1a9850"/>
+<text x="1986.0" y="550.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2023</text>
+<text x="1986.0" y="588.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Llama 2</text>
+<line x1="2136" y1="556" x2="2164" y2="556" stroke="#1a9850" stroke-width="5"/>
+<rect x="2164" y="510" width="300" height="92" rx="16" fill="#1a9850"/>
+<text x="2314.0" y="550.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2025</text>
+<text x="2314.0" y="588.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">DeepSeek-R1</text>
+<line x1="2464" y1="556" x2="2492" y2="556" stroke="#1a9850" stroke-width="5"/>
+<rect x="2492" y="510" width="300" height="92" rx="16" fill="#1a9850"/>
+<text x="2642.0" y="550.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2026</text>
+<text x="2642.0" y="588.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Muse Spark Open</text>
+<text x="1180" y="784" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#d6336c">中国家族 · The China Family</text>
+<line x1="1040" y1="835" x2="1140" y2="835" stroke="#d6336c" stroke-width="4"/>
+<line x1="1140" y1="835" x2="1140" y2="856" stroke="#d6336c" stroke-width="4"/>
+<line x1="1140" y1="856" x2="1180" y2="856" stroke="#d6336c" stroke-width="4"/>
+<rect x="1180" y="810" width="300" height="92" rx="16" fill="#d6336c"/>
+<text x="1330.0" y="850.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2023</text>
+<text x="1330.0" y="888.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">文心一言 ERNIE</text>
+<line x1="1480" y1="856" x2="1508" y2="856" stroke="#d6336c" stroke-width="5"/>
+<rect x="1508" y="810" width="300" height="92" rx="16" fill="#d6336c"/>
+<text x="1658.0" y="850.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2023</text>
+<text x="1658.0" y="888.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">通义千问 Qwen</text>
+<line x1="1808" y1="856" x2="1836" y2="856" stroke="#d6336c" stroke-width="5"/>
+<rect x="1836" y="810" width="300" height="92" rx="16" fill="#d6336c"/>
+<text x="1986.0" y="850.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2025</text>
+<text x="1986.0" y="888.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">DeepSeek</text>
+<line x1="2136" y1="856" x2="2164" y2="856" stroke="#d6336c" stroke-width="5"/>
+<rect x="2164" y="810" width="300" height="92" rx="16" fill="#d6336c"/>
+<text x="2314.0" y="850.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2026</text>
+<text x="2314.0" y="888.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Kimi K3.1 Pro</text>
+<line x1="2464" y1="856" x2="2492" y2="856" stroke="#d6336c" stroke-width="5"/>
+<rect x="2492" y="810" width="300" height="92" rx="16" fill="#d6336c"/>
+<text x="2642.0" y="850.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2026</text>
+<text x="2642.0" y="888.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Unlimited OCR 2</text>
+<text x="1180" y="1084" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#7048e8">创作家族 · The Creative Family</text>
+<line x1="1040" y1="835" x2="1140" y2="835" stroke="#7048e8" stroke-width="4"/>
+<line x1="1140" y1="835" x2="1140" y2="1156" stroke="#7048e8" stroke-width="4"/>
+<line x1="1140" y1="1156" x2="1180" y2="1156" stroke="#7048e8" stroke-width="4"/>
+<rect x="1180" y="1110" width="300" height="92" rx="16" fill="#7048e8"/>
+<text x="1330.0" y="1150.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2014</text>
+<text x="1330.0" y="1188.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">GAN</text>
+<line x1="1480" y1="1156" x2="1508" y2="1156" stroke="#7048e8" stroke-width="5"/>
+<rect x="1508" y="1110" width="300" height="92" rx="16" fill="#7048e8"/>
+<text x="1658.0" y="1150.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2021</text>
+<text x="1658.0" y="1188.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">DALL·E · CLIP</text>
+<line x1="1808" y1="1156" x2="1836" y2="1156" stroke="#7048e8" stroke-width="5"/>
+<rect x="1836" y="1110" width="300" height="92" rx="16" fill="#7048e8"/>
+<text x="1986.0" y="1150.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2022</text>
+<text x="1986.0" y="1188.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Stable Diffusion</text>
+<line x1="2136" y1="1156" x2="2164" y2="1156" stroke="#7048e8" stroke-width="5"/>
+<rect x="2164" y="1110" width="300" height="92" rx="16" fill="#7048e8"/>
+<text x="2314.0" y="1150.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2024</text>
+<text x="2314.0" y="1188.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Sora</text>
+<text x="1180" y="1384" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0b7285">智能体与科学 · Agents &amp; Science</text>
+<line x1="1040" y1="835" x2="1140" y2="835" stroke="#0b7285" stroke-width="4"/>
+<line x1="1140" y1="835" x2="1140" y2="1456" stroke="#0b7285" stroke-width="4"/>
+<line x1="1140" y1="1456" x2="1180" y2="1456" stroke="#0b7285" stroke-width="4"/>
+<rect x="1180" y="1410" width="300" height="92" rx="16" fill="#0b7285"/>
+<text x="1330.0" y="1450.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2020</text>
+<text x="1330.0" y="1488.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">AlphaFold 2</text>
+<line x1="1480" y1="1456" x2="1508" y2="1456" stroke="#0b7285" stroke-width="5"/>
+<rect x="1508" y="1410" width="300" height="92" rx="16" fill="#0b7285"/>
+<text x="1658.0" y="1450.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2021</text>
+<text x="1658.0" y="1488.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">GitHub Copilot</text>
+<line x1="1808" y1="1456" x2="1836" y2="1456" stroke="#0b7285" stroke-width="5"/>
+<rect x="1836" y="1410" width="300" height="92" rx="16" fill="#0b7285"/>
+<text x="1986.0" y="1450.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2024</text>
+<text x="1986.0" y="1488.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">诺贝尔奖 ×2</text>
+<line x1="2136" y1="1456" x2="2164" y2="1456" stroke="#0b7285" stroke-width="5"/>
+<rect x="2164" y="1410" width="300" height="92" rx="16" fill="#0b7285"/>
+<text x="2314.0" y="1450.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2025</text>
+<text x="2314.0" y="1488.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">智能体之年</text>
+<line x1="2464" y1="1456" x2="2492" y2="1456" stroke="#0b7285" stroke-width="5"/>
+<rect x="2492" y="1410" width="300" height="92" rx="16" fill="#0b7285"/>
+<text x="2642.0" y="1450.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85">2026</text>
+<text x="2642.0" y="1488.0" text-anchor="middle" textLength="276" lengthAdjust="spacingAndGlyphs" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Muse 智能体</text>
+<text x="1460" y="1672" text-anchor="middle" font-family="Georgia, serif" font-size="29" font-style="italic" fill="#111111">Stay hungry. Stay foolish. — AI-means-love</text>
+</svg>

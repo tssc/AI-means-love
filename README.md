@@ -21,6 +21,11 @@ A living, verifiable **chronicle of AI history**: first backfilled from the 1950
 3. **One entry a day** — `daily/YYYY-MM-DD.md`
    Each day we select the single event most worth remembering. If nothing qualifies, we honestly write "no entry today" and say why.
 
+## See it
+
+- 🌳 **[The AI Family Tree](FAMILY.md)** — one trunk, five families, every model has ancestors (with a 21-second video tour)
+- 🎨 **[Logo Evolution](LOGOS.md)** — how the famous marks grew up, from OpenAI's knot to DeepSeek's whale
+
 ## What earns a place in history
 
 ✅ Major model or product launches, milestone papers, major open-source releases, scientific breakthroughs (medicine, proteins, accessibility…), and policy or governance events with wide impact
@@ -33,6 +38,7 @@ Every entry requires an **official source first, plus at least one independent s
 ```
 AI-means-love/
 ├── README.md / TIMELINE.md     # English (canonical source)
+├── FAMILY.md / LOGOS.md        # Family tree + logo evolution (EN + ZH-CN)
 ├── i18n/<locale>/              # README + TIMELINE per language
 ├── data/events.json            # Structured events (canonical)
 ├── daily/                      # One entry per day
@@ -76,6 +82,7 @@ Six projects that share this chronicle's spirit — open, generous, and useful t
 - [x] Multilingual: 10 languages, English canonical (2026-10-26)
 - [x] Homepage recommends six kindred open-source projects — see "Projects we love" below (2026-10-26)
 - [ ] Daily updates running (every day at 21:00 CST a draft is prepared and reviewed before publishing)
+- [x] Visual pages: the AI family tree (image + 21s video tour) and logo evolution (2026-10-28)
 - [ ] Next: a visual timeline website
 
 ---
