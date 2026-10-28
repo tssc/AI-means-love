@@ -47,7 +47,7 @@ Six projets dans le même esprit que cette chronique : ouverts, généreux et ut
 
 ## État
 
-- [x] Rétrospective v1 : 1950–2026, 50 entrées (2026-10-26)
+- [x] Rétrospective v1 : 1950–2026, 51 entrées (2026-10-26)
 - [x] Publié sur GitHub (2026-10-26, https://github.com/tssc/AI-means-love)
 - [x] Multilingue : 10 langues, l'anglais comme source canonique (2026-10-26)
 - [ ] Mise à jour quotidienne en cours (chaque jour à 21 h 00 CST, un brouillon est préparé et relu avant publication)

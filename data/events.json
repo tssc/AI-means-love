@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 50,
+  "count": 51,
   "events": [
     {
       "date": "1950-10",
@@ -452,6 +452,15 @@
       "source_status": "backfill-v1, sources to be linked per event",
       "title_en": "First comprehensive AI application-risk insurance scheme",
       "summary_en": "Launched at the 2026 Financial Street Forum, a first-of-its-kind AI insurance scheme in China."
+    },
+    {
+      "date": "2026-10-27",
+      "title": "百度开源 Unlimited OCR 2",
+      "era": "个人智能体时代",
+      "summary": "百度开源 33.4 亿参数、MIT 授权的超长文档 OCR 模型，一次请求解析数百页，SR-SWA 使解码成本几乎不随长度增长。",
+      "source_status": "daily 2026-10-27, approved by Han 2026-10-28; official HF report + independent reporting",
+      "title_en": "Baidu open-sources Unlimited OCR 2",
+      "summary_en": "Baidu open-sources a 3.34B-parameter MIT-licensed OCR model parsing hundred-page documents in one request, with SR-SWA keeping decoding cost nearly flat."
     }
   ],
   "languages": [

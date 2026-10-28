@@ -91,6 +91,7 @@
 | 2026-10-17 | DeepSeek V4.1-Flash-1017 open weights | DeepSeek upgrades V4.1-Flash in place to the 1017 build (763B-parameter MoE, 1M-token context): web, app and API switch the same day under the same model name and price, and the new weights go up on Hugging Face and ModelScope under MIT the same day | A better model arrives as a free, silent upgrade — no code change, no price rise — and its weights belong to everyone from day one |
 | 2026-10-23 | Moonshot releases Kimi K3.1 Pro | Moonshot AI releases the 3T-class open-weight flagship Kimi K3.1 Pro (2.8T total / 104B active MoE parameters, 1M-token context, multimodal), live on Kimi.ai and the API at roughly a third lower price than K3, full weights promised by Nov 4; before release, the team deliberately removed high-risk cyber-attack training data | An open model reaches the global top tier while its makers voluntarily give up dangerous capability — openness and restraint in the same release |
 | 2026-10-26 | China's first comprehensive AI application-risk insurance scheme | Launched at the 2026 Financial Street Forum: insurance covering losses generative-AI services cause to third parties, and providers' own remediation costs | AI gets its own insurance for the first time — society begins to carry new technology with mature risk-sharing, a sign a technology is truly trusted |
+| 2026-10-27 | Baidu open-sources Unlimited OCR 2 | Baidu releases the 3.34B-parameter MIT-licensed OCR model that parses documents of hundreds of pages in one request, using SR-SWA (a fixed 512-token reference set) to keep decoding cost nearly flat as documents grow; Baidu's own MarathonDocBench score is 77.1, against 33.7 for the next model | Paper history becomes usable text: archives, books and filings turn searchable for any team, not just those who can rent a model |
 
 ---
 
@@ -101,4 +102,4 @@
 - [ ] Discuss inclusion criteria for the robotics line (Tesla Optimus, Figure, Unitree…)
 - [ ] Add a source link to every entry (official announcements first)
 
-*Last updated: 2026-10-26 (50 entries)*
+*Last updated: 2026-10-27 (51 entries)*
