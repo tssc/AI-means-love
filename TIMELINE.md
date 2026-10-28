@@ -92,6 +92,7 @@
 | 2026-10-23 | Moonshot releases Kimi K3.1 Pro | Moonshot AI releases the 3T-class open-weight flagship Kimi K3.1 Pro (2.8T total / 104B active MoE parameters, 1M-token context, multimodal), live on Kimi.ai and the API at roughly a third lower price than K3, full weights promised by Nov 4; before release, the team deliberately removed high-risk cyber-attack training data | An open model reaches the global top tier while its makers voluntarily give up dangerous capability — openness and restraint in the same release |
 | 2026-10-26 | China's first comprehensive AI application-risk insurance scheme | Launched at the 2026 Financial Street Forum: insurance covering losses generative-AI services cause to third parties, and providers' own remediation costs | AI gets its own insurance for the first time — society begins to carry new technology with mature risk-sharing, a sign a technology is truly trusted |
 | 2026-10-27 | Baidu open-sources Unlimited OCR 2 | Baidu releases the 3.34B-parameter MIT-licensed OCR model that parses documents of hundreds of pages in one request, using SR-SWA (a fixed 512-token reference set) to keep decoding cost nearly flat as documents grow; Baidu's own MarathonDocBench score is 77.1, against 33.7 for the next model | Paper history becomes usable text: archives, books and filings turn searchable for any team, not just those who can rent a model |
+| 2026-10-28 | Google DeepMind releases Genie 4 | DeepMind announces Genie 4, a world model for real-time interactive simulation, in research preview for trusted testers: users steer the scene live with text prompts, and it is the first Genie model to generate audio natively — music, ambient sound and dialogue — with Gemini 3.8 Flash as a guiding agent in the loop; TechCrunch reports scenes stay consistent for up to two minutes, double Genie 3 | A world you can walk into, talk to and change: safe, variable training grounds for robots and agents, and seconds-fast prototypes for creators — with SynthID marking every output as AI-made |
 
 ---
 
@@ -102,4 +103,4 @@
 - [ ] Discuss inclusion criteria for the robotics line (Tesla Optimus, Figure, Unitree…)
 - [ ] Add a source link to every entry (official announcements first)
 
-*Last updated: 2026-10-27 (51 entries)*
+*Last updated: 2026-10-28 (52 entries)*

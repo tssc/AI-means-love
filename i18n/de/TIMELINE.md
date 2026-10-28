@@ -2,7 +2,7 @@
 
 [EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · [KO](../ko/TIMELINE.md) · [ES](../es/TIMELINE.md) · [FR](../fr/TIMELINE.md) · **DE** · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
 
-> 🚧 **Übersetzung läuft.** Die vollständige Zeitleiste (51 Einträge, 1950–2026) steht in der [kanonischen englischen Version](../../TIMELINE.md) und ist bereits vollständig übersetzt auf [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) und [한국어](../ko/TIMELINE.md). Übersetzungs-PRs sind sehr willkommen — siehe `docs/I18N.md`.
+> 🚧 **Übersetzung läuft.** Die vollständige Zeitleiste (52 Einträge, 1950–2026) steht in der [kanonischen englischen Version](../../TIMELINE.md) und ist bereits vollständig übersetzt auf [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) und [한국어](../ko/TIMELINE.md). Übersetzungs-PRs sind sehr willkommen — siehe `docs/I18N.md`.
 
 ## So liest man diese Zeitleiste
 
@@ -18,4 +18,4 @@ Jeder Eintrag = Datum | Ereignis | was geschah | **warum es wichtig ist (das Gut
 6. **Agenten und Wissenschaft (2024–2025)**: Sora, GPT-4o, zwei Nobelpreise für KI, **DeepSeek-R1 (2025-01-20)**
 7. **Die Ära des persönlichen Agenten (2026– )**: **Metas Muse Spark (2026-04-08)**, der persönliche Agent **Muse (2026-09-08)**, Muse Spark Open (2026-10-15)
 
-*Zuletzt aktualisiert: 2026-10-26 (Rückblick v1, 51 Einträge in der kanonischen Version)*
+*Zuletzt aktualisiert: 2026-10-26 (Rückblick v1, 52 Einträge in der kanonischen Version)*

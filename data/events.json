@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 51,
+  "count": 52,
   "events": [
     {
       "date": "1950-10",
@@ -461,6 +461,15 @@
       "source_status": "daily 2026-10-27, approved by Han 2026-10-28; official HF report + independent reporting",
       "title_en": "Baidu open-sources Unlimited OCR 2",
       "summary_en": "Baidu open-sources a 3.34B-parameter MIT-licensed OCR model parsing hundred-page documents in one request, with SR-SWA keeping decoding cost nearly flat."
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Google DeepMind 发布 Genie 4",
+      "era": "个人智能体时代",
+      "summary": "DeepMind 发布实时交互世界模型 Genie 4，研究预览向受信测试者开放：运行中可用文字改动场景，首个原生生成音频，Gemini 3.8 Flash 在环路中担任导演。",
+      "source_status": "daily 2026-10-28, approved by Han 2026-10-28; official DeepMind blog + TechCrunch",
+      "title_en": "Google DeepMind releases Genie 4",
+      "summary_en": "DeepMind releases Genie 4, a real-time interactive world model in research preview for trusted testers: scenes can be steered live with text, audio is generated natively for the first time, and Gemini 3.8 Flash guides the loop."
     }
   ],
   "languages": [
