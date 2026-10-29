@@ -12,6 +12,27 @@
 
 A living, verifiable **chronicle of AI history**: first backfilled from the 1950 Turing Test to today, then updated with **one carefully checked entry every day**. No hype, no invented stories — just the record of a world progressing, one day at a time.
 
+## 🌳 The AI Family Tree
+
+![The AI Family Tree](assets/family-tree.svg)
+
+One trunk, five families — every model has ancestors. The trunk runs from the 1950 Turing Test to AlphaGo; the red node is the **2017 Transformer**, the big bang almost everything alive today descends from. Five families grow out of it: **GPT · Open · China · Creative · Agents & Science**.
+
+▶ [Watch the 21-second tour](assets/family-tree-tour.mp4) · [Read the family stories →](FAMILY.md)
+
+## 🎨 Logo Evolution
+
+| Mark | Then → Now | The story in one line |
+|---|---|---|
+| OpenAI | wordmark → knot → redrawn blossom (2025) | A math knot, re-drawn to look more human |
+| Google DeepMind | two labs → one spark | Rivals under one roof, merged into a single spark |
+| Claude (Anthropic) | the warm starburst | Safety research with a human face |
+| Meta AI | the gradient loop | AI as a ring around the chats you already have |
+| DeepSeek | the blue whale | Huge, quiet, from the deep — surfacing with open weights |
+| Mistral | pixel stripes | Part flag, part game sprite, named for a cold French wind |
+
+[Read the full logo stories →](LOGOS.md)
+
 ## What this project does
 
 1. **A verifiable chronicle** — `TIMELINE.md`
@@ -20,11 +41,6 @@ A living, verifiable **chronicle of AI history**: first backfilled from the 1950
    The same history in machine-readable form, ready to power a visual timeline website, charts, videos and daily digests.
 3. **One entry a day** — `daily/YYYY-MM-DD.md`
    Each day we select the single event most worth remembering. If nothing qualifies, we honestly write "no entry today" and say why.
-
-## See it
-
-- 🌳 **[The AI Family Tree](FAMILY.md)** — one trunk, five families, every model has ancestors (with a 21-second video tour)
-- 🎨 **[Logo Evolution](LOGOS.md)** — how the famous marks grew up, from OpenAI's knot to DeepSeek's whale
 
 ## What earns a place in history
 
