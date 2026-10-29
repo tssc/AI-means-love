@@ -93,6 +93,7 @@
 | 2026-10-26 | China's first comprehensive AI application-risk insurance scheme | Launched at the 2026 Financial Street Forum: insurance covering losses generative-AI services cause to third parties, and providers' own remediation costs | AI gets its own insurance for the first time — society begins to carry new technology with mature risk-sharing, a sign a technology is truly trusted |
 | 2026-10-27 | Baidu open-sources Unlimited OCR 2 | Baidu releases the 3.34B-parameter MIT-licensed OCR model that parses documents of hundreds of pages in one request, using SR-SWA (a fixed 512-token reference set) to keep decoding cost nearly flat as documents grow; Baidu's own MarathonDocBench score is 77.1, against 33.7 for the next model | Paper history becomes usable text: archives, books and filings turn searchable for any team, not just those who can rent a model |
 | 2026-10-28 | Google DeepMind releases Genie 4 | DeepMind announces Genie 4, a world model for real-time interactive simulation, in research preview for trusted testers: users steer the scene live with text prompts, and it is the first Genie model to generate audio natively — music, ambient sound and dialogue — with Gemini 3.8 Flash as a guiding agent in the loop; TechCrunch reports scenes stay consistent for up to two minutes, double Genie 3 | A world you can walk into, talk to and change: safe, variable training grounds for robots and agents, and seconds-fast prototypes for creators — with SynthID marking every output as AI-made |
+| 2026-10-29 | Google releases Gemini 4 Carbon | Google announces Gemini 4 Carbon, its next frontier model for cybersecurity and long-horizon work, building on Gemini 4 Argon: #1 on Artificial Analysis Intelligence Index v5.0 at 59, and leading external cybersecurity benchmarks evaluated without guardrails — 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation, 71.0% on CWE-bench for patching; access starts with a subset of cyber defenders, then trusted partners via the Fairwind Program, with developers and consumers to follow | Frontier AI is handed to defenders first: the software everyone relies on gets its flaws found and fixed sooner — and a dual-use model is tested with governments and defenders before wide release |
 
 ---
 
@@ -103,4 +104,4 @@
 - [ ] Discuss inclusion criteria for the robotics line (Tesla Optimus, Figure, Unitree…)
 - [ ] Add a source link to every entry (official announcements first)
 
-*Last updated: 2026-10-28 (52 entries)*
+*Last updated: 2026-10-29 (53 entries)*

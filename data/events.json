@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 52,
+  "count": 53,
   "events": [
     {
       "date": "1950-10",
@@ -470,6 +470,15 @@
       "source_status": "daily 2026-10-28, approved by Han 2026-10-28; official DeepMind blog + TechCrunch",
       "title_en": "Google DeepMind releases Genie 4",
       "summary_en": "DeepMind releases Genie 4, a real-time interactive world model in research preview for trusted testers: scenes can be steered live with text, audio is generated natively for the first time, and Gemini 3.8 Flash guides the loop."
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Google 发布 Gemini 4 Carbon",
+      "era": "个人智能体时代",
+      "summary": "Google 发布面向网络安全与长程任务的前沿模型 Gemini 4 Carbon，基于 Gemini 4 Argon：AA 指数 v5.0 以 59 分第一，外部网络安全基准领先（找漏洞 88.2%、利用验证 54.8%、根因修复 71.0%），先向网络安全防御者开放。",
+      "source_status": "daily 2026-10-29, approved by Han 2026-10-30; official Google blog + Engadget",
+      "title_en": "Google releases Gemini 4 Carbon",
+      "summary_en": "Google releases Gemini 4 Carbon, a frontier model for cybersecurity and long-horizon work building on Gemini 4 Argon: #1 on the AA Index v5.0 at 59, leading external cybersecurity benchmarks (88.2% finding, 54.8% exploitation, 71.0% patching), with cyber defenders getting access first."
     }
   ],
   "languages": [
