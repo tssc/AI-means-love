@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 53,
+  "count": 54,
   "events": [
     {
       "date": "1950-10",
@@ -479,6 +479,15 @@
       "source_status": "daily 2026-10-29, approved by Han 2026-10-30; official Google blog + Engadget",
       "title_en": "Google releases Gemini 4 Carbon",
       "summary_en": "Google releases Gemini 4 Carbon, a frontier model for cybersecurity and long-horizon work building on Gemini 4 Argon: #1 on the AA Index v5.0 at 59, leading external cybersecurity benchmarks (88.2% finding, 54.8% exploitation, 71.0% patching), with cyber defenders getting access first."
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Mistral 开放 Large 4 权重",
+      "era": "个人智能体时代",
+      "summary": "Mistral AI 开放旗舰模型 Mistral Large 4（Le Chonk，约 1 万亿总参数、每 token 激活约 490 亿，约 100 万 token 上下文）权重，此前仅于 10 月 6 日 API 预览；modified MIT 许可（模型即服务须另获商业许可）；官方口径：FrontierCode 2.0 19.7% 居开放模型首位，编程智能体指数 48% 与 GLM-5.3 持平但少用 47% token，网络安全指数 51%，恶意请求拒绝率 96.6%，均为公司数据未经独立复现。",
+      "source_status": "daily 2026-10-30, approved by Han 2026-10-30; official Mistral blog + TechCrunch; event date 2026-10-29 per official blog",
+      "title_en": "Mistral open-weights Large 4",
+      "summary_en": "Mistral AI open-weights its flagship Mistral Large 4 (Le Chonk, ~1T total / 49B active MoE parameters, ~1M-token context), previewed via API on Oct 6, under a modified MIT licence (model-as-a-service needs a separate commercial licence); company figures, not yet independently reproduced: 19.7% on FrontierCode 2.0 (top open-weight score), 48% on the Coding Agent Index tied with GLM-5.3 at 47% fewer tokens per task, 51% on the Cyber Index, 96.6% refusal on malicious cyber requests."
     }
   ],
   "languages": [
