@@ -33,6 +33,12 @@ One trunk, five families — every model has ancestors. The trunk runs from the 
 
 [Read the full logo stories →](LOGOS.md)
 
+## 🔐 Side chronicle: The Great Crypto Heists
+
+The main timeline stays AI-only. In a side room we keep the security history behind the AI-for-cybersecurity entries: the 2026 Binance heist ($6.3B, the largest crypto theft ever) and the eight major thefts before it — Bybit, Poly Network, Ronin, Coincheck, Mt. Gox and more.
+
+[Read the heists page →](HEISTS.md)
+
 ## What this project does
 
 1. **A verifiable chronicle** — `TIMELINE.md`
@@ -55,6 +61,7 @@ Every entry requires an **official source first, plus at least one independent s
 AI-means-love/
 ├── README.md / TIMELINE.md     # English (canonical source)
 ├── FAMILY.md / LOGOS.md        # Family tree + logo evolution (EN + ZH-CN)
+├── HEISTS.md                   # Side chronicle: the great crypto heists (EN + ZH-CN; not in the timeline)
 ├── i18n/<locale>/              # README + TIMELINE per language
 ├── data/events.json            # Structured events (canonical)
 ├── daily/                      # One entry per day
