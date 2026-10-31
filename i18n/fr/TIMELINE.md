@@ -2,7 +2,7 @@
 
 [EN](../../TIMELINE.md) · [ZH-CN](../zh-CN/TIMELINE.md) · [ZH-TW](../zh-TW/TIMELINE.md) · [JA](../ja/TIMELINE.md) · [KO](../ko/TIMELINE.md) · [ES](../es/TIMELINE.md) · **FR** · [DE](../de/TIMELINE.md) · [PT](../pt-BR/TIMELINE.md) · [RU](../ru/TIMELINE.md)
 
-> 🚧 **Traduction en cours.** La chronologie complète (54 entrées, 1950–2026) est disponible dans la [version canonique en anglais](../../TIMELINE.md), et déjà entièrement traduite en [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) et [한국어](../ko/TIMELINE.md). Les PR de traduction sont les bienvenues — voir `docs/I18N.md`.
+> 🚧 **Traduction en cours.** La chronologie complète (55 entrées, 1950–2026) est disponible dans la [version canonique en anglais](../../TIMELINE.md), et déjà entièrement traduite en [简体中文](../zh-CN/TIMELINE.md), [繁體中文](../zh-TW/TIMELINE.md), [日本語](../ja/TIMELINE.md) et [한국어](../ko/TIMELINE.md). Les PR de traduction sont les bienvenues — voir `docs/I18N.md`.
 
 ## Comment lire cette chronologie
 
@@ -18,4 +18,4 @@ Chaque entrée = date | événement | ce qui s'est passé | **pourquoi c'est imp
 6. **Agents et science (2024–2025)** : Sora, GPT-4o, deux prix Nobel pour l'IA, **DeepSeek-R1 (2025-01-20)**
 7. **L'ère de l'agent personnel (2026– )** : **Muse Spark de Meta (2026-04-08)**, l'agent personnel **Muse (2026-09-08)**, Muse Spark Open (2026-10-15)
 
-*Dernière mise à jour : 2026-10-26 (rétrospective v1, 54 entrées dans la version canonique)*
+*Dernière mise à jour : 2026-10-26 (rétrospective v1, 55 entrées dans la version canonique)*

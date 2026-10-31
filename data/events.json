@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 54,
+  "count": 55,
   "events": [
     {
       "date": "1950-10",
@@ -488,6 +488,15 @@
       "source_status": "daily 2026-10-30, approved by Han 2026-10-30; official Mistral blog + TechCrunch; event date 2026-10-29 per official blog",
       "title_en": "Mistral open-weights Large 4",
       "summary_en": "Mistral AI open-weights its flagship Mistral Large 4 (Le Chonk, ~1T total / 49B active MoE parameters, ~1M-token context), previewed via API on Oct 6, under a modified MIT licence (model-as-a-service needs a separate commercial licence); company figures, not yet independently reproduced: 19.7% on FrontierCode 2.0 (top open-weight score), 48% on the Coding Agent Index tied with GLM-5.3 at 47% fewer tokens per task, 51% on the Cyber Index, 96.6% refusal on malicious cyber requests."
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Apple 智能登陆中国，接入千问",
+      "era": "个人智能体时代",
+      "summary": "苹果在中国官网 Newsroom 宣布首批 Apple 智能功能进入中国：11 月 4 日起随最新 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式版推出。苹果自家模型驱动实时翻译、写作工具、视觉智能等功能；阿里巴巴千问接入 Siri、写作工具与视觉智能，承接特定请求、文档提问与原创写作。首批仅限 iPhone（iPhone 16 及后续机型、iPhone Duo、iPhone 15 Pro/Max、iPhone Air）；不含 Siri AI 及 WWDC 2026 其他下一代功能，其他平台待审批后推出。",
+      "source_status": "daily 2026-10-31, approved by Han 2026-10-31; official Apple China Newsroom + AppleInsider; event date 2026-10-31 per official press release",
+      "title_en": "Apple Intelligence comes to China with Qwen",
+      "summary_en": "Apple announces in its China Newsroom that the first Apple Intelligence features reach China: testing from Nov 4 with the latest iOS developer beta, public release with iOS 27.3 in December. Apple's own models drive Live Translation, Writing Tools, Visual Intelligence and more; Alibaba's Qwen is added to Siri, Writing Tools and Visual Intelligence for certain requests, documents and original composition. iPhone-only at first (iPhone 16 and later, iPhone Duo, iPhone 15 Pro/Max, iPhone Air); Siri AI and other WWDC 2026 features excluded, other platforms pending approvals."
     }
   ],
   "languages": [

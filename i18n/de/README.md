@@ -47,7 +47,7 @@ Sechs Projekte mit demselben Geist wie diese Chronik — offen, großzügig und 
 
 ## Stand
 
-- [x] Rückblick v1: 1950–2026, 54 Einträge (2026-10-26)
+- [x] Rückblick v1: 1950–2026, 55 Einträge (2026-10-26)
 - [x] Auf GitHub veröffentlicht (2026-10-26, https://github.com/tssc/AI-means-love)
 - [x] Mehrsprachig: 10 Sprachen, Englisch als kanonische Quelle (2026-10-26)
 - [ ] Tägliche Aktualisierung läuft (jeden Tag um 21:00 CST wird ein Entwurf vorbereitet und vor der Veröffentlichung geprüft)
