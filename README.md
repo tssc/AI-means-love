@@ -71,7 +71,7 @@ AI-means-love/
 
 ## Translation status
 
-**Full (README + 55-entry TIMELINE):** EN · ZH-CN · ZH-TW · JA · KO
+**Full (README + 56-entry TIMELINE):** EN · ZH-CN · ZH-TW · JA · KO
 **README full, TIMELINE in progress:** ES · FR · DE · PT · RU
 
 English is the canonical source; other languages sync from it under the rules in `docs/I18N.md`. Translation PRs are very welcome.
@@ -100,7 +100,7 @@ Six projects that share this chronicle's spirit — open, generous, and useful t
 
 ## Status
 
-- [x] Backfill v1: 1950–2026, 55 entries (2026-10-26)
+- [x] Backfill v1: 1950–2026, 56 entries (2026-10-26)
 - [x] Published on GitHub (2026-10-26, https://github.com/tssc/AI-means-love)
 - [x] Multilingual: 10 languages, English canonical (2026-10-26)
 - [x] Homepage recommends six kindred open-source projects — see "Projects we love" below (2026-10-26)

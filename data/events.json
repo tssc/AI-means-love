@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 55,
+  "count": 56,
   "events": [
     {
       "date": "1950-10",
@@ -497,6 +497,15 @@
       "source_status": "daily 2026-10-31, approved by Han 2026-10-31; official Apple China Newsroom + AppleInsider; event date 2026-10-31 per official press release",
       "title_en": "Apple Intelligence comes to China with Qwen",
       "summary_en": "Apple announces in its China Newsroom that the first Apple Intelligence features reach China: testing from Nov 4 with the latest iOS developer beta, public release with iOS 27.3 in December. Apple's own models drive Live Translation, Writing Tools, Visual Intelligence and more; Alibaba's Qwen is added to Siri, Writing Tools and Visual Intelligence for certain requests, documents and original composition. iPhone-only at first (iPhone 16 and later, iPhone Duo, iPhone 15 Pro/Max, iPhone Air); Siri AI and other WWDC 2026 features excluded, other platforms pending approvals."
+    },
+    {
+      "date": "2026-10-31",
+      "title": "DeepSeek 开源 Super-agent 原型",
+      "era": "个人智能体时代",
+      "summary": "DeepSeek Harness 团队发表《Super-agent 设计探索：迈向更自主的 Agent 系统》，并在 GitHub 开源配套研究原型 dsh-superagent-prototype（MIT 协议）：面向单个 GitHub 仓库的主动式编码智能体，以 DeepSeek Harness 套件形式提供。常驻 Router 接收 GitHub（可选飞书）请求，分派给相互隔离的 Worker 会话执行，结果回到原对话交付，例如提交 Pull Request。DeepSeek 强调这只是参考代码、并非官方产品，文章中部分设计尚未实现。",
+      "source_status": "daily 2026-11-01, approved by Han 2026-11-03; official GitHub repo deepseek-ai/dsh-superagent-prototype + 潮新闻 2026-11-01; event date 2026-10-31 per repo creation 2026-10-31T09:32:46Z and Oct 31 evening article; experiment figures are DeepSeek's own simulated results, not independently reproduced",
+      "title_en": "DeepSeek open-sources its Super-agent prototype",
+      "summary_en": "DeepSeek's Harness team publishes \"Exploring Super-agent Design: Towards a More Autonomous Agent System\" and open-sources dsh-superagent-prototype (MIT) on GitHub: a research prototype of a proactive coding agent for one GitHub repository, built as a DeepSeek Harness bundle. A persistent Router takes requests from GitHub and optionally Feishu, dispatches them to isolated Worker sessions, and returns results — for example a pull request — to the original conversation. DeepSeek stresses it is reference code, not an official product, and some designs in the article are not yet implemented."
     }
   ],
   "languages": [
