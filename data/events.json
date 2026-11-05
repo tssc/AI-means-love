@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 57,
+  "count": 59,
   "events": [
     {
       "date": "1950-10",
@@ -508,6 +508,15 @@
       "summary_en": "DeepSeek's Harness team publishes \"Exploring Super-agent Design: Towards a More Autonomous Agent System\" and open-sources dsh-superagent-prototype (MIT) on GitHub: a research prototype of a proactive coding agent for one GitHub repository, built as a DeepSeek Harness bundle. A persistent Router takes requests from GitHub and optionally Feishu, dispatches them to isolated Worker sessions, and returns results — for example a pull request — to the original conversation. DeepSeek stresses it is reference code, not an official product, and some designs in the article are not yet implemented."
     },
     {
+      "date": "2026-11-03",
+      "title": "Anthropic 预警 RSI 阈值可能很快达到",
+      "era": "个人智能体时代",
+      "summary": "Anthropic 在 11 月 2 日向美国 SEC 提交的修订版 S-1/A 招股文件（北京时间 11 月 3 日报道）风险因素章节中新增表述：用 AI 加速自身研发可能导致能力进步快于安全措施跟进，且过去的加速事后才被识别；对未来模型的内部估计（而非当前模型）显示，公司可能很快达到《负责任扩展政策》所定义的「可归因于 AI 的显著加速进展」。目前没有任何一款模型被认定超过该阈值。文件承诺人类始终掌控前沿模型开发，并预告可能更新该政策。",
+      "source_status": "daily 2026-11-03, approved by Han 2026-11-04, submitted 2026-11-05; dual-source checked (SEC S-1/A filing 2026-11-02, key sentences verified verbatim in filing text + TechCrunch 2026-11-02); event date 2026-11-03 per Beijing reporting, filing submitted Nov 2 US; no current model designated as exceeding threshold; prospectus caveat noted (mandatory disclosure + investor-facing document)",
+      "title_en": "Anthropic warns its RSI threshold may soon be met",
+      "summary_en": "In an amended S-1/A filed with the US SEC on Nov 2 (reported in Beijing on Nov 3), Anthropic adds Risk Factors language: AI-assisted R&D may advance capabilities faster than safety measures can follow, and past accelerations went unrecognized until after they occurred; internal estimates for future models, not current ones, indicate it 'may imminently meet' its Responsible Scaling Policy definition of 'dramatically accelerated progress attributable to AI.' No current model is designated as exceeding the threshold. The filing commits to keeping humans in control of frontier model development and previews possible policy updates."
+    },
+    {
       "date": "2026-11-04",
       "title": "腾讯发布 Hy4 正式版",
       "era": "个人智能体时代",
@@ -515,6 +524,15 @@
       "source_status": "daily 2026-11-04, approved by Han 2026-11-04; official Tencent release + TechNode; Reuters safety summary differs from official text on reverse engineering / penetration testing, official text followed",
       "title_en": "Tencent releases Hy4",
       "summary_en": "Tencent Hunyuan releases the full version of Hy4, adding visual understanding and computer use (command-line and graphical interfaces, specialized Blender/CAD training) for the first time, live on TokenHub, WorkBuddy, CodeBuddy, Yuanbao, ima, WeCom Dayuan and third-party platforms; weights and a system card are promised in the coming days, not yet released. Trained on defensive security data, with offensive exploitation materials explicitly excluded."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Kimi K3.1 Pro 开放权重",
+      "era": "个人智能体时代",
+      "summary": "月之暗面在 Hugging Face 公开 Kimi K3.1 Pro 完整权重（无访问门槛）：2.8T 总参/104B 激活、1M 上下文、原生多模态，MXFP4 量化 96 个 Safetensors 分片共约 1.56TB，首日支持 vLLM/SGLang/TokenSpeed。许可为 MIT 风格的 Kimi K3.1 Pro License，附加条件仅针对大体量主体（MaaS 年收入超 2000 万美元需另签协议；月活超 1 亿或月收入超 2000 万美元的产品须显著署名）。10 月 23 日发布时「11 月 4 日前开放权重」的承诺在截止日落地。",
+      "source_status": "supplement draft daily/2026-11-04-kimi, Han approved drafting 2026-11-05 (Kimi 通过) and approved submission 2026-11-05; official HF repo moonshotai/Kimi-K3.1-Pro read directly 2026-11-05 (public, no gate; card specs and licence badge verified) + Moonshot X announcement 2026-11-04 16:00 UTC; repo first commit Nov 2 (not public), first publicly seen Nov 4 15:31 UTC, event date recorded as public day 2026-11-04; benchmark table is Moonshot's own, not independently reproduced",
+      "title_en": "Moonshot releases the Kimi K3.1 Pro weights",
+      "summary_en": "Moonshot AI publishes the full Kimi K3.1 Pro weights on Hugging Face with no access gate: 2.8T total parameters, 104B activated, 1M-token context, native multimodal, 96 MXFP4 Safetensors shards totalling about 1.56TB, with vLLM, SGLang and TokenSpeed support. The MIT-style Kimi K3.1 Pro License adds terms only at very large scale (separate agreement for MaaS revenue above $20M/year; prominent attribution for products above 100M monthly users or $20M monthly revenue). The release fulfils, on its deadline day, the open-weights promise made at the model's Oct 23 launch."
     }
   ],
   "languages": [
