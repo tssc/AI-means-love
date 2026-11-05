@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 56,
+  "count": 57,
   "events": [
     {
       "date": "1950-10",
@@ -506,6 +506,15 @@
       "source_status": "daily 2026-11-01, approved by Han 2026-11-03; official GitHub repo deepseek-ai/dsh-superagent-prototype + 潮新闻 2026-11-01; event date 2026-10-31 per repo creation 2026-10-31T09:32:46Z and Oct 31 evening article; experiment figures are DeepSeek's own simulated results, not independently reproduced",
       "title_en": "DeepSeek open-sources its Super-agent prototype",
       "summary_en": "DeepSeek's Harness team publishes \"Exploring Super-agent Design: Towards a More Autonomous Agent System\" and open-sources dsh-superagent-prototype (MIT) on GitHub: a research prototype of a proactive coding agent for one GitHub repository, built as a DeepSeek Harness bundle. A persistent Router takes requests from GitHub and optionally Feishu, dispatches them to isolated Worker sessions, and returns results — for example a pull request — to the original conversation. DeepSeek stresses it is reference code, not an official product, and some designs in the article are not yet implemented."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "腾讯发布 Hy4 正式版",
+      "era": "个人智能体时代",
+      "summary": "腾讯混元发布 Hy4 正式版，首次引入视觉理解与电脑操作（命令行与图形界面，Blender/CAD 专门训练），上线 TokenHub、WorkBuddy、CodeBuddy、元宝、ima、企业微信 Dayuan 及 OpenRouter 等第三方平台；权重与系统卡尚未放出，官方口径为未来几天内发布。训练用防御性安全数据，漏洞利用类攻击性材料明确排除。",
+      "source_status": "daily 2026-11-04, approved by Han 2026-11-04; official Tencent release + TechNode; Reuters safety summary differs from official text on reverse engineering / penetration testing, official text followed",
+      "title_en": "Tencent releases Hy4",
+      "summary_en": "Tencent Hunyuan releases the full version of Hy4, adding visual understanding and computer use (command-line and graphical interfaces, specialized Blender/CAD training) for the first time, live on TokenHub, WorkBuddy, CodeBuddy, Yuanbao, ima, WeCom Dayuan and third-party platforms; weights and a system card are promised in the coming days, not yet released. Trained on defensive security data, with offensive exploitation materials explicitly excluded."
     }
   ],
   "languages": [
