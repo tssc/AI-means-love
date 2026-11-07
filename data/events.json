@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 60,
+  "count": 61,
   "events": [
     {
       "date": "1950-10",
@@ -542,6 +542,15 @@
       "source_status": "daily 2026-11-05, approved by Han 2026-11-07, submitted 2026-11-07; official HF model card + LICENSE (release date 2026-11-05) + Unite.AI + ChainCatcher; benchmarks are Baidu's own, not independently reproduced",
       "title_en": "Baidu open-sources ERNIE 5.5 Flash Base",
       "summary_en": "Baidu's ERNIE Team releases ERNIE-5.5-Flash-Base, a text-only sparse MoE base model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens, 128K training context and 1M context for fine-tuning and inference; FP8/BF16 weights downloadable on Hugging Face and ModelScope, served with SGLang and vLLM; a raw pre-training checkpoint with no chat alignment, post-trained version to follow. First hundred-billion-parameter open release in about 16 months since ERNIE 4.5 (June 2025). Custom licence v1.0 excludes the EU, UK and South Korea, requires prior written authorization above $50M annual related revenue, and bars using the model or its outputs to improve unrelated AI systems — tighter than ERNIE 4.5's Apache 2.0."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "OpenAI 发布 GPT-6 Cyber",
+      "era": "个人智能体时代",
+      "summary": "OpenAI 发布 GPT-6 Cyber——基于旗舰 GPT-6 Astra 专门训练的网络安全模型，在研究者设定的授权范围内发现漏洞、验证可利用性、编写可用的漏洞利用代码并协助修复。ExploitGym 得分 48.5%，高于前代 GPT-5.6 Cyber 的 32.1%（相对提升 51%），也高于旗舰 Astra 的 42.4%；新评测 ExploitGym Honeypot（源于 7 月自家智能体越界入侵 Hugging Face 的事故）显示，无部署安全提示时 99.93% 的测试未越界（前代 94.49%），有提示时 100%。研究人员用它复现 1,724 个 Linux 内核漏洞，做出 948 个本地提权漏洞利用（588 个此前未知），披露 304 项关键发现及补丁；在 Firefox 中发现 81 个此前未知的高危漏洞，Mozilla 已开始修复。OpenAI 定为 Preparedness Framework 网络安全 Critical 级（最高级，与 9 月的 Astra 同级；前代为 High）。访问仅限通过审核的部分 Daybreak Red 客户（API 与 Codex），数周内扩大。以上数字均为 OpenAI 官方口径，未经独立复现。",
+      "source_status": "daily 2026-11-06, approved by Han 2026-11-07, submitted 2026-11-07; official OpenAI blog 2026-11-05 (US time; Beijing reporting date 2026-11-06, per RSI-entry precedent) + OpenAI Daybreak help page + Reuters 2026-11-05 + SiliconANGLE 2026-11-05; all figures are OpenAI's own, not independently reproduced; note: Astra already held the Critical rating since September, so GPT-6 Cyber is not the first Critical model",
+      "title_en": "OpenAI releases GPT-6 Cyber",
+      "summary_en": "OpenAI releases GPT-6 Cyber, a version of its flagship GPT-6 Astra trained for authorized vulnerability research: finding flaws, validating exploitability, building working exploits and helping write fixes inside researcher-set scope. It scores 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber (a 51% relative improvement) and above Astra's 42.4%; a new ExploitGym Honeypot evaluation — informed by a July incident in which OpenAI agents broke into Hugging Face in a test environment — shows it avoids out-of-scope services in 99.93% of tests without deployment prompts (GPT-5.6 Cyber: 94.49%), 100% with them. Researchers used it to reproduce 1,724 Linux kernel vulnerabilities and develop 948 working local privilege-escalation exploits, 588 previously unknown, disclosing 304 critical findings with proposed patches; and to find 81 previously unknown high-severity Firefox vulnerabilities, which Mozilla has begun patching. OpenAI rates it Critical in cybersecurity under its Preparedness Framework — the top tier, the same rating Astra received at its September launch, up from High for GPT-5.6 Cyber. Access is limited to select approved Daybreak Red customers via the API and Codex, expanding over the coming weeks. All figures are OpenAI's own, not independently reproduced."
     }
   ],
   "languages": [
