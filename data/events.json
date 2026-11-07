@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 59,
+  "count": 60,
   "events": [
     {
       "date": "1950-10",
@@ -533,6 +533,15 @@
       "source_status": "supplement draft daily/2026-11-04-kimi, Han approved drafting 2026-11-05 (Kimi 通过) and approved submission 2026-11-05; official HF repo moonshotai/Kimi-K3.1-Pro read directly 2026-11-05 (public, no gate; card specs and licence badge verified) + Moonshot X announcement 2026-11-04 16:00 UTC; repo first commit Nov 2 (not public), first publicly seen Nov 4 15:31 UTC, event date recorded as public day 2026-11-04; benchmark table is Moonshot's own, not independently reproduced",
       "title_en": "Moonshot releases the Kimi K3.1 Pro weights",
       "summary_en": "Moonshot AI publishes the full Kimi K3.1 Pro weights on Hugging Face with no access gate: 2.8T total parameters, 104B activated, 1M-token context, native multimodal, 96 MXFP4 Safetensors shards totalling about 1.56TB, with vLLM, SGLang and TokenSpeed support. The MIT-style Kimi K3.1 Pro License adds terms only at very large scale (separate agreement for MaaS revenue above $20M/year; prominent attribution for products above 100M monthly users or $20M monthly revenue). The release fulfils, on its deadline day, the open-weights promise made at the model's Oct 23 launch."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "百度开源 ERNIE 5.5 Flash Base",
+      "era": "个人智能体时代",
+      "summary": "百度文心团队发布 ERNIE-5.5-Flash-Base，纯文本稀疏 MoE 基础模型，总参数 2800 亿、每 token 激活 140 亿，33.5 万亿 token 从零预训练，训练上下文 128K、微调与推理支持 100 万 token；FP8/BF16 权重在 Hugging Face 与 ModelScope 开放下载，支持 SGLang/vLLM；为纯预训练检查点，无对话对齐，后训练版随后发布。自文心 4.5（2025 年 6 月）之后约 16 个月首次再开源千亿参数级模型。自定义许可证 v1.0 排除欧盟、英国、韩国，相关年营收超 5000 万美元商用须另获书面授权，禁止以模型及输出改进无关 AI 系统，较 4.5 的 Apache 2.0 收紧。",
+      "source_status": "daily 2026-11-05, approved by Han 2026-11-07, submitted 2026-11-07; official HF model card + LICENSE (release date 2026-11-05) + Unite.AI + ChainCatcher; benchmarks are Baidu's own, not independently reproduced",
+      "title_en": "Baidu open-sources ERNIE 5.5 Flash Base",
+      "summary_en": "Baidu's ERNIE Team releases ERNIE-5.5-Flash-Base, a text-only sparse MoE base model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens, 128K training context and 1M context for fine-tuning and inference; FP8/BF16 weights downloadable on Hugging Face and ModelScope, served with SGLang and vLLM; a raw pre-training checkpoint with no chat alignment, post-trained version to follow. First hundred-billion-parameter open release in about 16 months since ERNIE 4.5 (June 2025). Custom licence v1.0 excludes the EU, UK and South Korea, requires prior written authorization above $50M annual related revenue, and bars using the model or its outputs to improve unrelated AI systems — tighter than ERNIE 4.5's Apache 2.0."
     }
   ],
   "languages": [
