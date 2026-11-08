@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 61,
+  "count": 62,
   "events": [
     {
       "date": "1950-10",
@@ -551,6 +551,15 @@
       "source_status": "daily 2026-11-06, approved by Han 2026-11-07, submitted 2026-11-07; official OpenAI blog 2026-11-05 (US time; Beijing reporting date 2026-11-06, per RSI-entry precedent) + OpenAI Daybreak help page + Reuters 2026-11-05 + SiliconANGLE 2026-11-05; all figures are OpenAI's own, not independently reproduced; note: Astra already held the Critical rating since September, so GPT-6 Cyber is not the first Critical model",
       "title_en": "OpenAI releases GPT-6 Cyber",
       "summary_en": "OpenAI releases GPT-6 Cyber, a version of its flagship GPT-6 Astra trained for authorized vulnerability research: finding flaws, validating exploitability, building working exploits and helping write fixes inside researcher-set scope. It scores 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber (a 51% relative improvement) and above Astra's 42.4%; a new ExploitGym Honeypot evaluation — informed by a July incident in which OpenAI agents broke into Hugging Face in a test environment — shows it avoids out-of-scope services in 99.93% of tests without deployment prompts (GPT-5.6 Cyber: 94.49%), 100% with them. Researchers used it to reproduce 1,724 Linux kernel vulnerabilities and develop 948 working local privilege-escalation exploits, 588 previously unknown, disclosing 304 critical findings with proposed patches; and to find 81 previously unknown high-severity Firefox vulnerabilities, which Mozilla has begun patching. OpenAI rates it Critical in cybersecurity under its Preparedness Framework — the top tier, the same rating Astra received at its September launch, up from High for GPT-5.6 Cyber. Access is limited to select approved Daybreak Red customers via the API and Codex, expanding over the coming weeks. All figures are OpenAI's own, not independently reproduced."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "PSI 用未公开 Anthropic 模型证明阿伦森–安拜尼斯猜想",
+      "era": "个人智能体时代",
+      "summary": "美国剑桥 AI 原生物理实验室 PSI 宣布证明自 2008 年悬而未决的阿伦森–安拜尼斯猜想：内部研发的研究系统运行未公开 Anthropic 模型的多个实例，运行第三天找到完整证明，Lean 证明助手逐项通过；随后两次改进，影响力界指数从 22 降到 11、再到 7，Lean 对最终版同样通过。60 页论文与 Lean 4 形式化证明已公开在 GitHub：648 个机检定理、无占位步骤、无附加公理，Lean 代码以 Apache 2.0 发布，并用两个独立 Lean 内核实现重新检验。证明沿用 Lovett 与 Zhang 的方案，把留作猜想的一步不等式换成行列式配对法证明的新不等式；最终界为某比特影响力至少 c·v^(5/2)/d^6 ≥ (v/d)^7（c 约 0.0025）。2026 年 8 月在特例上证明该猜想推论的斯坦福团队已读过证明、给出意见，正在写更短的讲解版本。尚未同行评审；截至 11 月 7 日 Aaronson 与 Ambainis 均未公开表态，Anthropic 未说明用了哪个模型；三天运行本身不可复现，可验证的是公开的证明本身。结论只覆盖输入读取次数，不覆盖总计算时间。",
+      "source_status": "daily 2026-11-08 (catch-up for 2026-11-06 event; drafted 2026-11-08 Beijing time — no qualifying event on 2026-11-08 itself), approved by Han 2026-11-08, submitted 2026-11-08; official PSI page 2026-11-06 (US time; Beijing reporting early hours 2026-11-07) + The Quantum Insider 2026-11-06 + WebProNews 2026-11-07 + maccus.fr 2026-11-07; not peer-reviewed; human-readable paper itself is not machine-checked, only the Lean formalization is; no public comment from Aaronson or Ambainis as of 2026-11-07; Anthropic has not commented on which model was used; the run cannot be reproduced, the proof can be verified",
+      "title_en": "PSI proves the Aaronson–Ambainis conjecture with an unreleased Anthropic model",
+      "summary_en": "Physical Superintelligence (PSI), an AI-native physics lab in Cambridge, Massachusetts, announces a proof of the Aaronson–Ambainis conjecture, open since 2008 and one of the central open problems of quantum complexity theory: a research system it built internally, running instances of a non-public Anthropic model, found a complete proof on the third day of its run, and the Lean proof assistant accepted it; the system then improved the bound's exponent from 22 to 11 and then to 7, with Lean accepting the final version. The 60-page paper and the Lean 4 formalization are public on GitHub: 648 machine-checked theorems, no placeholder steps and no added axioms, the Lean code under Apache 2.0 and re-checked with two independent Lean kernels. The proof follows a plan of Shachar Lovett and Jiapeng Zhang, replacing one inequality they left as a conjecture with a new one proved by a determinant pairing; the final bound is that some bit has influence at least c·v^(5/2)/d^6 ≥ (v/d)^7, with c about 0.0025. A Stanford team that proved the conjecture's prediction in a special case in August 2026 has read the proof, sent comments and is writing a shorter exposition; PSI quotes their assessment as \"This is a huge result.\" Not yet peer-reviewed; neither Aaronson nor Ambainis has commented publicly as of November 7, Anthropic has not said which model was used, and the run itself cannot be reproduced — only the proof, which is public and machine-checkable. The conclusion covers input reads only, not total computing time."
     }
   ],
   "languages": [
