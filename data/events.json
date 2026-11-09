@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-10-26",
-  "count": 62,
+  "count": 63,
   "events": [
     {
       "date": "1950-10",
@@ -560,6 +560,15 @@
       "source_status": "daily 2026-11-08 (catch-up for 2026-11-06 event; drafted 2026-11-08 Beijing time — no qualifying event on 2026-11-08 itself), approved by Han 2026-11-08, submitted 2026-11-08; official PSI page 2026-11-06 (US time; Beijing reporting early hours 2026-11-07) + The Quantum Insider 2026-11-06 + WebProNews 2026-11-07 + maccus.fr 2026-11-07; not peer-reviewed; human-readable paper itself is not machine-checked, only the Lean formalization is; no public comment from Aaronson or Ambainis as of 2026-11-07; Anthropic has not commented on which model was used; the run cannot be reproduced, the proof can be verified",
       "title_en": "PSI proves the Aaronson–Ambainis conjecture with an unreleased Anthropic model",
       "summary_en": "Physical Superintelligence (PSI), an AI-native physics lab in Cambridge, Massachusetts, announces a proof of the Aaronson–Ambainis conjecture, open since 2008 and one of the central open problems of quantum complexity theory: a research system it built internally, running instances of a non-public Anthropic model, found a complete proof on the third day of its run, and the Lean proof assistant accepted it; the system then improved the bound's exponent from 22 to 11 and then to 7, with Lean accepting the final version. The 60-page paper and the Lean 4 formalization are public on GitHub: 648 machine-checked theorems, no placeholder steps and no added axioms, the Lean code under Apache 2.0 and re-checked with two independent Lean kernels. The proof follows a plan of Shachar Lovett and Jiapeng Zhang, replacing one inequality they left as a conjecture with a new one proved by a determinant pairing; the final bound is that some bit has influence at least c·v^(5/2)/d^6 ≥ (v/d)^7, with c about 0.0025. A Stanford team that proved the conjecture's prediction in a special case in August 2026 has read the proof, sent comments and is writing a shorter exposition; PSI quotes their assessment as \"This is a huge result.\" Not yet peer-reviewed; neither Aaronson nor Ambainis has commented publicly as of November 7, Anthropic has not said which model was used, and the run itself cannot be reproduced — only the proof, which is public and machine-checkable. The conclusion covers input reads only, not total computing time."
+    },
+    {
+      "date": "2026-11-09",
+      "title": "LG 免费开放 K-EXAONE 2.5 API",
+      "era": "个人智能体时代",
+      "summary": "LG AI Research 在首尔 COEX 举行的 NVIDIA AI Day Seoul 2026 上宣布：自家主权 AI 基座模型 K-EXAONE 2.5 的 API 即日起通过 EXAONE API Platform 免费向所有人开放，开发者、初创公司、企业与研究机构只需领取 API 密钥即可零成本用于服务开发与研究。K-EXAONE 2.5 总参数 750B、每 token 激活 31B，纯文本、支持韩语与英语，上下文 512K token、知识截止 2026 年 1 月，接口与 OpenAI 兼容。它是 8 月发布的韩国主权 AI 项目第二代模型 K-EXAONE 2.0 的追加训练版，LG 自称「技术验证模型」，验证出的训练技术将用于第三代模型，目标 2027 年 1 月前完成前沿级 EXAONE 模型。官方口径智能体基准（未经独立复现）：SWE-Bench Pro 59.21 分、BrowseComp 78.0 分、AutomationBench 开放集 74.6 分、Claw-Eval 77.29 分——四项中有三项超过 DeepSeek-V4.1-Flash、一项超过 GLM-5.3；LG 称 24 项评测综合表现较 8 月模型提升 70% 以上。本次开放的是免费 API 而非开源权重，免费期限与用量额度均未公布。",
+      "source_status": "daily 2026-11-09, approved by Han 2026-11-10, submitted 2026-11-10; official LG AI Research announcement 2026-11-09 (Korean) + EXAONE API Platform docs + The Asia Business Daily 2026-11-09 + Unite.AI 2026-11-09; all benchmark figures are LG's own measurements on open datasets, not independently reproduced; weights NOT open — free API access only; free period duration and quotas undisclosed",
+      "title_en": "LG opens the K-EXAONE 2.5 API for free",
+      "summary_en": "At NVIDIA AI Day Seoul 2026 in Seoul, LG AI Research makes the API for K-EXAONE 2.5, its sovereign AI foundation model, free for everyone through the EXAONE API Platform — any developer, startup, company or research institution can use it for service development and research with only an API key. K-EXAONE 2.5 has 750B total parameters with 31B active per token, is text-only in Korean and English, and offers a 512K-token context with a January 2026 knowledge cutoff through an OpenAI-compatible interface. It is a technology-validation model: further training of K-EXAONE 2.0, the second model of Korea's sovereign AI project released in August 2026, whose training techniques will feed a third-generation model aimed at frontier level by January 2027. Company-reported agentic benchmarks, not independently reproduced: 59.21 on SWE-Bench Pro, 78.0 on BrowseComp, 74.6 on AutomationBench open-set and 77.29 on Claw-Eval — above DeepSeek-V4.1-Flash on three of the four and above GLM-5.3 on one; LG says overall performance across 24 metrics improved by more than 70% against the August model. The weights are not open — this is free API access only — and neither the duration of the free period nor any usage quota has been disclosed."
     }
   ],
   "languages": [
