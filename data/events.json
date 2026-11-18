@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
   "updated": "2026-11-18",
-  "count": 71,
+  "count": 73,
   "events": [
     {
       "date": "1950-10",
@@ -508,6 +508,15 @@
       "summary_en": "DeepSeek's Harness team publishes \"Exploring Super-agent Design: Towards a More Autonomous Agent System\" and open-sources dsh-superagent-prototype (MIT) on GitHub: a research prototype of a proactive coding agent for one GitHub repository, built as a DeepSeek Harness bundle. A persistent Router takes requests from GitHub and optionally Feishu, dispatches them to isolated Worker sessions, and returns results — for example a pull request — to the original conversation. DeepSeek stresses it is reference code, not an official product, and some designs in the article are not yet implemented."
     },
     {
+      "date": "2026-11-02",
+      "title": "美团发布 LongCat-2.5",
+      "era": "个人智能体时代",
+      "summary": "美团技术团队宣布发布面向长程智能体任务的原生多模态模型 LongCat-2.5，是 LongCat-2.0（2026 年 6 月）之后的正式版（9 月 25 日曾上线预览版）：总参数 1.6 万亿，每 token 激活约 480 亿，视觉信号以多层级离散 token 形式与文本统一处理。训练加入更多长程轨迹数据并做大规模长程强化学习，把真实 Agent 的失败轨迹转为可复现训练任务，优化国产算力长上下文训练与 W4A4 推理；美团口径称训练全程由国产算力完成。官网与 API 已上线，GitHub 与 Hugging Face 权重仅标注敬请期待、未给日期。美团自测 Terminal-Bench v2.1 为 88.4，高于 2.0 的 70.8。",
+      "source_status": "daily 2026-11-02, approved by Han 2026-11-18, submitted 2026-11-18; dual-source checked (TechNode 2026-11-02 + IT Home via Sina 2026-11-02 09:28, official site longcat.ai for availability); event date 2026-11-02 per Beijing reporting, official tech blog dated Nov 1 per German secondary citation, API changelog Nov 2; benchmark figure is Meituan's own, not independently reproduced; weights pending, API-only at launch",
+      "title_en": "Meituan releases LongCat-2.5",
+      "summary_en": "Meituan's technical team announces LongCat-2.5, a natively multimodal model for long-horizon agent tasks, the formal release after LongCat-2.0 (June 2026) and a September 25 preview: 1.6T total parameters, about 48B activated per token, with visual signals as multi-level discrete tokens processed in one unified token form with text. Training adds long-trajectory data and large-scale long-horizon reinforcement learning, turns real agents' failure trajectories into reproducible training tasks, and optimizes long-context training and W4A4 inference on domestic compute; Meituan says training ran entirely on domestic chips. Live on longcat.ai and via API; GitHub and Hugging Face weights are marked coming soon, with no date. Meituan's own Terminal-Bench v2.1 score is 88.4, up from 70.8 for LongCat-2.0."
+    },
+    {
       "date": "2026-11-03",
       "title": "Anthropic 预警 RSI 阈值可能很快达到",
       "era": "个人智能体时代",
@@ -542,6 +551,15 @@
       "source_status": "daily 2026-11-05, approved by Han 2026-11-07, submitted 2026-11-07; official HF model card + LICENSE (release date 2026-11-05) + Unite.AI + ChainCatcher; benchmarks are Baidu's own, not independently reproduced",
       "title_en": "Baidu open-sources ERNIE 5.5 Flash Base",
       "summary_en": "Baidu's ERNIE Team releases ERNIE-5.5-Flash-Base, a text-only sparse MoE base model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens, 128K training context and 1M context for fine-tuning and inference; FP8/BF16 weights downloadable on Hugging Face and ModelScope, served with SGLang and vLLM; a raw pre-training checkpoint with no chat alignment, post-trained version to follow. First hundred-billion-parameter open release in about 16 months since ERNIE 4.5 (June 2025). Custom licence v1.0 excludes the EU, UK and South Korea, requires prior written authorization above $50M annual related revenue, and bars using the model or its outputs to improve unrelated AI systems — tighter than ERNIE 4.5's Apache 2.0."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Thinking Machines 发布 Inkling 2 Small",
+      "era": "个人智能体时代",
+      "summary": "Mira Murati 创立的 Thinking Machines 发布第二代模型首款 Inkling 2 Small：稀疏 MoE，总参数 594B、每 token 激活 17B，支持图像输入与可变推理强度，上下文 1M token；四阶段预训练（8.4T+3.8T token，约 320B 推理与智能体轨迹，约 34B 最高质量轨迹）+ 大规模统一 RL。官方口径基准（未经独立复现）：Artificial Analysis Intelligence Index 31 分（附表 30.6），高于首代 13 分；FrontierCode v2.0 25.4%、DeepSWE 72.1%、SWE-Bench Pro 86.3%、MMMU Pro 81.6%。演示包括从零生成 Three.js 城市模拟器、可启动真实 Linux 内核的 Python PC 模拟器，以及 4.5 小时、426 美元的自主研究（自行训练 Qwen3.5-4B 做时序预测，分数翻倍）。首发只经自家 Tinker 平台提供，权重承诺下周经外部安全测试与红队后以 Apache 2.0 发布。",
+      "source_status": "daily 2026-11-07 (catch-up for 2026-11-05 event; deferred in 2026-11-06 draft in favour of GPT-6 Cyber), approved by Han 2026-11-18, submitted 2026-11-18; official Thinking Machines blog 2026-11-05 + VentureBeat 2026-11-05; all figures are the company's own, not independently reproduced; weights NOT yet released — Apache 2.0 release promised for next week after external safety testing and red-teaming",
+      "title_en": "Thinking Machines releases Inkling 2 Small",
+      "summary_en": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, releases Inkling 2 Small, the first model of its second generation: a sparse MoE model with 594B total parameters and 17B active per token, image inputs, variable reasoning effort and a 1M-token context. Pre-training ran in four phases (8.4T tokens of broad data, 3.8T of higher-quality data, ~320B tokens of reasoning and agent trajectories at 1M context, ~34B of the highest-quality agent trajectories), plus a large unified RL run over hundreds of thousands of long-horizon coding tasks. Company-reported benchmarks, not independently reproduced: 31 on the Artificial Analysis Intelligence Index v5.0 (30.6 in the accompanying table), up from 13 for the first-generation Inkling Small; 25.4% on FrontierCode v2.0, 72.1% on DeepSWE v1.1, 86.3% on SWE-Bench Pro v2 (Hard), 81.6% on MMMU Pro. Demos include a from-scratch interactive city simulator in Three.js, a Python PC emulator booting a real Linux kernel, and a 4.5-hour, $426 autonomous run in which the model trained Qwen3.5-4B for time-series forecasting, more than doubling its score. The model is available only through the company's Tinker platform at launch; full weights are promised under Apache 2.0 next week, after external safety testing and red-teaming."
     },
     {
       "date": "2026-11-06",
