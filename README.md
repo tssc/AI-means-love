@@ -71,7 +71,7 @@ AI-means-love/
 
 ## Translation status
 
-**Full (README + 70-entry TIMELINE):** EN · ZH-CN · ZH-TW · JA · KO
+**Full (README + 71-entry TIMELINE):** EN · ZH-CN · ZH-TW · JA · KO
 **README full, TIMELINE in progress:** ES · FR · DE · PT · RU
 
 English is the canonical source; other languages sync from it under the rules in `docs/I18N.md`. Translation PRs are very welcome.
