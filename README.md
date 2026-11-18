@@ -100,7 +100,7 @@ Six projects that share this chronicle's spirit — open, generous, and useful t
 
 ## Status
 
-- [x] Backfill v1: 1950–2026, 70 entries (2026-10-26)
+- [x] Backfill v1: 1950–2026, 71 entries (2026-10-26)
 - [x] Published on GitHub (2026-10-26, https://github.com/tssc/AI-means-love)
 - [x] Multilingual: 10 languages, English canonical (2026-10-26)
 - [x] Homepage recommends six kindred open-source projects — see "Projects we love" below (2026-10-26)
