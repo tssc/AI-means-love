@@ -18,4 +18,4 @@ Cada entrada = data | acontecimento | o que aconteceu | **por que importa (o bem
 6. **Agentes e ciência (2024–2025)**: Sora, GPT-4o, dois prêmios Nobel para a IA, **DeepSeek-R1 (2025-01-20)**
 7. **A era do agente pessoal (2026– )**: **Muse Spark da Meta (2026-04-08)**, o agente pessoal **Muse (2026-09-08)**, Muse Spark Open (2026-10-15)
 
-*Última atualização: 2026-10-26 (retrospectiva v1, 74 entradas na versão canônica)*
+*Última atualização: 2026-10-26 (retrospectiva v1, 75 entradas na versão canônica)*
