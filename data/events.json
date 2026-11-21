@@ -1,7 +1,7 @@
 {
   "project": "AI-means-love",
-  "updated": "2026-11-20",
-  "count": 75,
+  "updated": "2026-11-21",
+  "count": 76,
   "events": [
     {
       "date": "1950-10",
@@ -677,6 +677,15 @@
       "source_status": "daily 2026-11-20, auto-submitted 2026-11-20 under Han's 2026-11-18 standing authorization (daily drafts no longer require per-draft approval); official Anthropic press release 2026-11-18 (US time; event dated 2026-11-20 Beijing reporting day per GPT-6.2 / GPT-6 Cyber / RSI precedent) + Reuters 2026-11-19 + Al Jazeera 2026-11-19 + TechCrunch 2026-11-18 + Channel News Asia 2026-11-18 + Motley Fool 2026-11-19 (first-day trading, close, valuation, volume, revenue, $900.9B commitments) + NetEase 2026-11-20 (intraday peak above $2T); valuation differs by measure (about $1.5T fully diluted at $83 offer price; about $1.8T at $97.17 close; briefly above $2T intraday) — all three stated, no single figure taken as settled",
       "title_en": "Anthropic lists on Nasdaq in the largest IPO in history",
       "summary_en": "Anthropic, the maker of the Claude family of models, begins trading on the Nasdaq Global Select Market under the ticker ANT (priced November 18, US time; first traded November 19; reported in Beijing on November 20), the first frontier AI lab to go public. It prices at $83 a share — above its $70–$78 range — and sells 980 million Class A shares, raising $81.3 billion, the largest IPO in history by proceeds, passing SpaceX's $75 billion debut in June 2026; a separate $26 billion private placement is taken up at the same price. Shares open at $111.50, 34% above the offer price, and close at $97.17, up 17%, with about 840 million shares changing hands, on a day the Nasdaq falls 2.2%; the fully diluted valuation is about $1.5 trillion at the offer price and about $1.8 trillion at the close, briefly above $2 trillion intraday. The prospectus reports $33.24 billion of revenue for the nine months to September 30, 2026, about 1,200% higher than a year earlier, and about $900.9 billion in spending commitments, largely for compute, running through 2045. Anthropic is a Delaware public benefit corporation, and its final prospectus tells Class A buyers in writing that the company may choose safety over shareholder returns."
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Thinking Machines 发布 Inkling 2 Mini：循环 Transformer 跑上笔记本",
+      "era": "个人智能体时代",
+      "summary": "Thinking Machines Lab 发布 Inkling 2 Mini（美国时间 11 月 20 日发布，北京时间 11 月 21 日见报），一款 26.4B 参数的开放权重循环 Transformer：24 层中，中间 12 层以共享权重每 token 跑三遍，24 层权重产生 48 次层应用；每 token 激活 3.4B 参数，计入循环为 5.4B 有效激活参数；上下文 100 万 token。模型大部分权重以 NVFP4 训练与部署（最后 4 层 MXFP8），总内存占用约 20GB，可在消费级笔记本上离线运行——官方研究员在航班上用一台 MacBook Pro 离线运行它，几分钟内做出一个可玩的飞行模拟器。官方口径基准（未经独立复现）：在 100B 总参数以下的开放权重模型中，智能体编码 DeepSWE v1.1 得 48.2%、SWE-bench Verified 得 79.2%，Vals Index v2.2 得 46.5%，均居同档第一。以 Apache 2.0 许可开放权重，上线 Hugging Face 与自家 Tinker 平台；同日还发布变循环研究模型 TML-d24-varloop-research，研究循环是否会把推理藏出思维链监测之外：实验室的结论是思维链随循环变短但始终可读，破坏测试分数未随循环增加而上升。",
+      "source_status": "daily 2026-11-21, auto-submitted 2026-11-21 under Han's 2026-11-18 standing authorization (daily drafts no longer require per-draft approval); official Thinking Machines blog 2026-11-20 (US time; event dated 2026-11-21 Beijing reporting day per GPT-6.2 / GPT-6 Cyber / RSI / Anthropic IPO precedent) + Hugging Face model card (release date 2026-11-20, Apache 2.0) + Futurum 2026-11-21 (cross-check; note: Futurum discloses the piece is AI-generated and not editor-reviewed) + Chinese roundups 2026-11-21 (cnblogs iTech daily, yodfz AI daily); all benchmark figures are Thinking Machines' own, not independently reproduced; variable-loop sibling TML-d24-varloop-research is research-only, mentioned within this entry, not a separate entry",
+      "title_en": "Thinking Machines releases Inkling 2 Mini, a looped transformer that runs on a laptop",
+      "summary_en": "Thinking Machines Lab releases Inkling 2 Mini (November 20, US time; reported in Beijing on November 21), a 26.4B-parameter open-weights looped transformer: the middle 12 of its 24 layers run three times per token with shared weights, producing 48 layer applications from 24 layers of weights, with 3.4B active parameters (5.4B effective with looping) and a 1M-token context. Trained and deployed mostly in NVFP4 (the last four layers in MXFP8), the model fits in about 20GB and runs offline on a consumer laptop — the lab's researchers ran it on a MacBook Pro during a flight, building a playable flight simulator in minutes. Company-reported benchmarks, not independently reproduced: it leads every open-weights model under 100B total parameters on agentic coding, with 48.2% on DeepSWE v1.1 and 79.2% on SWE-bench Verified, and 46.5% on the Vals Index v2.2. Released under Apache 2.0 on Hugging Face and via the Tinker platform, with a variable-loop research sibling (TML-d24-varloop-research) published alongside to study whether looping hides reasoning from chain-of-thought monitors: the lab finds the chain of thought shortens but stays legible, and sabotage scores do not rise with more loops."
     }
   ],
   "languages": [
